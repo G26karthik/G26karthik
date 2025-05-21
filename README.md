@@ -1,40 +1,65 @@
 <h1 align="center">Hi 👋, I'm G Karthik Koundinya</h1>
-<h3 align="center">A passionate AI developer with a full stack edge from India</h3>
+<h3 align="center">A passionate AI developer with a full-stack edge from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=g26karthik&label=Profile%20views&color=0e75b6&style=flat" alt="g26karthik" /> </p>
-
-
-
-- 🔭 I’m currently working on [Lost and Found Website](https://github.com/G26karthik/Lost-and-Found)
-
-- 🌱 I’m currently learning **LangChain, RAG, CNN, Php**
-
-- 👯 I’m looking to collaborate on Open-Source AI Projects – Especially in NLP, ML model deployment, or full stack AI-driven tools. [Connect with me on](https://www.linkedin.com/in/g-karthik26/)
-
-- 🤝 I’m looking for help with **Scaling AI Projects – Especially MLOps, real-time inference, and React-based dashboards.**
-
-- 👨‍💻 All of my projects are available at [https://g26karthik.github.io/Portfolio/](https://g26karthik.github.io/Portfolio/)
-
-- 💬 Ask me about **React.js, FastAPI, NLP, MERN and building AI-powered web apps**
-
-- 📫 How to reach me **karthikofficialmain@gmail.com**
-
-- 📄 Know about my experiences [Here](https://drive.google.com/file/d/1avFQfCOIvLSaCXfYSXdIqPJaeFPYDU5I/view?usp=sharing)
-
-- ⚡ Fun fact : **I use AI to make cool apps… and occasionally debug them using snacks.**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/g-karthik26" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="g-karthik26" height="30" width="40" /></a>
-<a href="https://kaggle.com/gkarthikkoundinya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="gkarthikkoundinya" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/g26karthik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="g26karthik" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/g26karthik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="g26karthik" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=g26karthik&label=Profile%20views&color=0e75b6&style=flat&label=Profile+Views" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/g26karthik?label=Follow&style=social" alt="GitHub Followers" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+---
 
+### 🚀 About Me
+- 🔭 I’m currently working on: [Lost and Found Website](https://github.com/G26karthik/Lost-and-Found)  
+- 🌱 Learning: **LangChain, RAG, CNN, PHP**  
+- 👯 Looking to collaborate on: **Open-Source AI Projects** (especially NLP, ML deployment, and full-stack AI tools)  
+- 🤝 Seeking support in: **MLOps, real-time inference, and React dashboards**  
+- 👨‍💻 Portfolio: [g26karthik.github.io/Portfolio](https://g26karthik.github.io/Portfolio/)  
+- 💬 Ask me about: **React.js, FastAPI, NLP, MERN stack, AI-powered web apps**  
+- 📫 Reach me at: **karthikofficialmain@gmail.com**  
+- 📄 [My Resume](https://drive.google.com/file/d/1avFQfCOIvLSaCXfYSXdIqPJaeFPYDU5I/view?usp=sharing)  
+- ⚡ Fun Fact: I use AI to build cool apps... and debug them with snacks 🍪  
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=g26karthik&show_icons=true&locale=en" alt="g26karthik" /></p>
+---
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=g26karthik" alt="g26karthik" /></a> </p>
+### 🤝 Connect With Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/g-karthik26" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://kaggle.com/gkarthikkoundinya" target="_blank"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/></a>
+  <a href="https://www.hackerrank.com/g26karthik" target="_blank"><img src="https://img.shields.io/badge/Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/></a>
+  <a href="https://leetcode.com/g26karthik/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
+</p>
+
+---
+
+### 🧠 Languages and Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,js,react,nextjs,tailwind,html,css,fastapi,nodejs,flask,django,mongodb,mysql,postgresql,git,linux,github,tensorflow,pytorch,scikitlearn" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=g26karthik&theme=radical&show_icons=true&locale=en" alt="g26karthik" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=g26karthik&theme=radical" alt="Streak Stats" />
+</p>
+
+---
+
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=g26karthik&theme=darkhub&margin-w=15&no-frame=true&column=7" />
+</p>
+
+---
+
+### 💡 AI & Tech in Action
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="450" alt="AI Working" />
+  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="300" alt="Tech" />
+</p>
