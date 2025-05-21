@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm G Karthik Koundinya</h1>
 <h3 align="center">A passionate AI developer with a full-stack edge from India</h3>
 
+---
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=g26karthik&label=Profile%20views&color=0e75b6&style=flat&label=Profile+Views" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/g26karthik?label=Follow&style=social" alt="GitHub Followers" />
