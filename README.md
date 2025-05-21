@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=g26karthik&label=Profile%20views&color=0e75b6&style=flat" alt="g26karthik" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=g26karthik" alt="g26karthik" /></a> </p>
+
 
 - 🔭 I’m currently working on [Lost and Found Website](https://github.com/G26karthik/Lost-and-Found)
 
@@ -36,3 +36,5 @@
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=g26karthik&show_icons=true&locale=en" alt="g26karthik" /></p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=g26karthik" alt="g26karthik" /></a> </p>
