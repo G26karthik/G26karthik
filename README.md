@@ -8,16 +8,16 @@
 </p>
 
 ### 🚀 About Me
-- 🔭 I’m currently working on: [Lost and Found Website](https://github.com/G26karthik/Lost-and-Found)  
-- 🌱 Learning: **LangChain, RAG, CNN, PHP**  
+- 🔭 I’m currently working on: [AI Network Traffic Shaper](https://github.com/G26karthik/AI-Network-Traffic-Shaper)  
+- 🌱 Learning: **Advanced AI, RAG, Agentic AI, DSA**  
 - 👯 Looking to collaborate on: **Open-Source AI Projects** (especially NLP, ML deployment, and full-stack AI tools)  
-- 🤝 Seeking support in: **MLOps, real-time inference, and React dashboards**  
+- 🤝 Seeking support in: **MLOps, real-time inference, and React dashboards**
+- ⭐ 3⭐ **CodeChef coder** | Passionate about **AI, Full-Stack Development, and MLOps**  
 - 👨‍💻 Portfolio: [g26karthik.github.io/Portfolio](https://g26karthik.github.io/Portfolio/)  
 - 💬 Ask me about: **React.js, FastAPI, NLP, MERN stack, AI-powered web apps**  
 - 📫 Reach me at: **karthikofficialmain@gmail.com**  
-- 📄 [My Resume](https://drive.google.com/file/d/1avFQfCOIvLSaCXfYSXdIqPJaeFPYDU5I/view?usp=sharing)  
+- 📄 [My Resume](https://drive.google.com/file/d/1ZmHw_VEqbLEjkRctNnLR2BfpRsA4uqSv/view?usp=sharing)  
 - ⚡ Fun Fact: I use AI to build cool apps... and debug them with snacks 🍪  
-
 ---
 
 ### 🤝 Connect With Me
