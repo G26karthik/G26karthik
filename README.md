@@ -12,7 +12,7 @@
 - 🌱 Learning: **Advanced AI, RAG, Agentic AI, DSA**  
 - 👯 Looking to collaborate on: **Open-Source AI Projects** (especially NLP, ML deployment, and full-stack AI tools)  
 - 🤝 Seeking support in: **MLOps, real-time inference, and React dashboards**
-- ⭐ 3⭐ **CodeChef coder** | Passionate about **AI, Full-Stack Development, and MLOps**  
+- ⭐ 5⭐ **CodeChef coder** | Passionate about **AI, Full-Stack Development, and MLOps**  
 - 👨‍💻 Portfolio: [g26karthik.github.io/Portfolio](https://g26karthik.github.io/Portfolio/)  
 - 💬 Ask me about: **React.js, FastAPI, NLP, MERN stack, AI-powered web apps**  
 - 📫 Reach me at: **karthikofficialmain@gmail.com**  
