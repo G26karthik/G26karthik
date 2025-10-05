@@ -39,11 +39,12 @@
 
 ---
 
+[![An image of @g26karthik's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/g26karthik)](https://holopin.io/@g26karthik)
+
 ### 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=g26karthik&theme=radical&show_icons=true&locale=en" alt="g26karthik" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=g26karthik&theme=radical" alt="Streak Stats" />
 </p>
 
 ---
