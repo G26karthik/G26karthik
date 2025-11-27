@@ -53,7 +53,7 @@ I am open to collaboration on open source AI infrastructure, RAG frameworks and 
 
 📫 Email: **karthikofficialmain@gmail.com**  
 🌐 Portfolio: **https://g26karthik.github.io/Portfolio/**  
-📄 Resume: *(ensure the link stays updated)*
+📄 Resume: *https://drive.google.com/file/d/1WvDCHCJNnAgBldLk-3jFeYOPITHGz-qS/view?usp=sharing*
 
 ---
 
