@@ -1,65 +1,86 @@
-<h1 align="center">Hi 👋, I'm G Karthik Koundinya</h1>
-<h3 align="center">A passionate AI developer with a full-stack edge from India</h3>
-
+<h1 align="center">Hi 👋 I'm G. Karthik Koundinya</h1>
+<h3 align="center">AI and Software Engineer | Building scalable systems and intelligent AI powered applications</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=g26karthik&label=Profile%20views&color=0e75b6&style=flat&label=Profile+Views" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/g26karthik?label=Follow&style=social" alt="GitHub Followers" />
+  <img src="https://komarev.com/ghpvc/?username=g26karthik&label=Profile+Views&color=blue&style=flat" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/g26karthik?label=Followers&style=social" alt="GitHub Followers" />
 </p>
 
-### 🚀 About Me
-- 🔭 I’m currently working on: [AI Network Traffic Shaper](https://github.com/G26karthik/AI-Network-Traffic-Shaper)  
-- 🌱 Learning: **Advanced AI, RAG, Agentic AI, DSA**  
-- 👯 Looking to collaborate on: **Open-Source AI Projects** (especially NLP, ML deployment, and full-stack AI tools)  
-- 🤝 Seeking support in: **MLOps, real-time inference, and React dashboards**
-- ⭐ 5⭐ **CodeChef coder** | Passionate about **AI, Full-Stack Development, and MLOps**  
-- 👨‍💻 Portfolio: [g26karthik.github.io/Portfolio](https://g26karthik.github.io/Portfolio/)  
-- 💬 Ask me about: **React.js, FastAPI, NLP, MERN stack, AI-powered web apps**  
-- 📫 Reach me at: **karthikofficialmain@gmail.com**  
-- 📄 [My Resume](https://drive.google.com/file/d/1ZmHw_VEqbLEjkRctNnLR2BfpRsA4uqSv/view?usp=sharing)  
-- ⚡ Fun Fact: I use AI to build cool apps... and debug them with snacks 🍪  
 ---
 
-### 🤝 Connect With Me
+### 🚀 What I Do
+I design and deploy scalable systems and LLM powered applications with performance, reliability and real world usability.
 
+- Distributed backend systems using FastAPI, Node.js, microservices and concurrency models  
+- Multi agent AI workflows that enable autonomous reasoning and corrective decision loops  
+- RAG and Hybrid Search using FAISS, BM25, caching and ranking optimization techniques  
+- Cloud deployment and infrastructure on GCP, AWS and Azure with Docker and CI/CD  
+- Full stack engineering when end to end delivery is needed using React or Next.js with FastAPI or Node  
+- Open source contributions to Google AI, Pandas, Mem0, Matplotlib and other projects
+
+---
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="450" />
+
+</p>
+
+
+### 🏗️ Highlight Projects
+| Project | Description |
+|--------|-------------|
+| **SupplySentinel** | Autonomous multi agent supply chain risk monitoring system deployed on Google Cloud Run |
+| **Lumina Search** | Hybrid RAG engine with vector + keyword fusion and 90 percent reduced re embedding cost |
+| **Voice to Notes AI** | Whisper and T5 pipeline generating notes, MCQs and flashcards with full UI |
+| **AI Interview Assistant** | Resume parsing, timed Q&A and AI scoring with React and Groq inference |
+| **AI Network Traffic Shaper** | Real time ML based traffic classification and QoS enforcement on live packet streams |
+
+🔗 Explore more repositories: https://github.com/G26karthik?tab=repositories
+
+---
+
+### 🌎 Current Focus
+- High performance backend architectures using async, multithreading and event driven patterns  
+- Retrieval and indexing systems combining vector similarity with keyword search and ranking  
+- Multi agent AI systems for autonomous long running task pipelines  
+- MLOps practices for deploying AI microservices at scale  
+
+I am especially interested in roles where backend engineering and AI systems intersect such as search and retrieval, autonomous agents, developer tooling, distributed inference and scalable cloud APIs.
+
+---
+
+### 💬 Want to Collaborate
+I am open to collaboration on open source AI infrastructure, RAG frameworks and AI developer tooling.
+
+📫 Email: **karthikofficialmain@gmail.com**  
+🌐 Portfolio: **https://g26karthik.github.io/Portfolio/**  
+📄 Resume: *(ensure the link stays updated)*
+
+---
+
+### 🔗 Connect With Me
 <p align="center">
   <a href="https://linkedin.com/in/g-karthik26" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://kaggle.com/gkarthikkoundinya" target="_blank"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/></a>
-  <a href="https://www.hackerrank.com/g26karthik" target="_blank"><img src="https://img.shields.io/badge/Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/></a>
-  <a href="https://leetcode.com/g26karthik/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
+  <a href="https://github.com/G26karthik" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://medium.com/@karthik26092005" target="_blank"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white"/></a>
+  <a href="https://leetcode.com/u/G26KarthikK/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
+  <a href="https://codeforces.com/profile/G26karthik" target="_blank"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge"/></a>
+  <a href="https://www.codechef.com/users/g26karthikk" target="_blank"><img src="https://img.shields.io/badge/CodeChef-895F44?style=for-the-badge&logo=codechef&logoColor=white"/></a>
 </p>
-
----
-
-### 🧠 Languages and Tools
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,js,react,nextjs,tailwind,html,css,fastapi,nodejs,flask,django,mongodb,mysql,postgresql,git,linux,github,tensorflow,pytorch,scikitlearn" />
-</p>
-
----
-
-[![An image of @g26karthik's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/g26karthik)](https://holopin.io/@g26karthik)
 
 ### 📊 GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=g26karthik&theme=radical&show_icons=true&locale=en" alt="g26karthik" />
+  <img src="https://github-readme-stats.vercel.app/api?username=g26karthik&theme=radical&show_icons=true&locale=en" alt="GitHub Stats" />
 </p>
 
 ---
 
 ### 🏆 GitHub Trophies
-
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=g26karthik&theme=darkhub&margin-w=15&no-frame=true&column=7" />
 </p>
 
 ---
-
-###
-
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="450" alt="AI Working" />
-  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="300" alt="Tech" />
+  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="450" alt="AI Working GIF" />
+ 
 </p>
