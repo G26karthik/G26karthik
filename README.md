@@ -63,7 +63,6 @@ I am open to collaboration on open source AI infrastructure, RAG frameworks and 
   <a href="https://github.com/G26karthik" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="https://medium.com/@karthik26092005" target="_blank"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white"/></a>
   <a href="https://leetcode.com/u/G26KarthikK/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
-  <a href="https://codeforces.com/profile/G26karthik" target="_blank"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge"/></a>
   <a href="https://www.codechef.com/users/g26karthikk" target="_blank"><img src="https://img.shields.io/badge/CodeChef-895F44?style=for-the-badge&logo=codechef&logoColor=white"/></a>
 </p>
 
