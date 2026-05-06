@@ -35,7 +35,6 @@ I'm an early-career AI & backend engineer who builds close to real systems — s
 |:---:|:---:|:---:|
 | 🍴 **CodeChef** | 2483 — 6★ | **#7 in India · #85 Globally** |
 | ⚡ **LeetCode** | 2591 — Guardian | **Top 0.13% Globally** |
-| 🔵 **Codeforces** | 2225 | **Master** |
 
 </div>
 
@@ -43,7 +42,6 @@ I'm an early-career AI & backend engineer who builds close to real systems — s
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/G26KarthikK/)
 [![CodeChef](https://img.shields.io/badge/CodeChef-895F44?style=flat-square&logo=codechef&logoColor=white)](https://www.codechef.com/users/g26karthikk)
-[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=flat-square&logo=codeforces&logoColor=white)](https://codeforces.com/profile/GKarthik26)
 
 </div>
 
