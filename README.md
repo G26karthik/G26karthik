@@ -48,7 +48,6 @@ I build practical AI and backend systems: agent workflows, retrieval engines, ed
 |:---:|:---:|:---:|
 | **CodeChef** | **2483 - 6-star** | **#7 India, #85 Global** |
 | **LeetCode** | **2591 - Guardian** | **Top 0.13% Global** |
-| **Codeforces** | **2225 - Master** | Algorithmic problem solving |
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/G26KarthikK/)
 [![CodeChef](https://img.shields.io/badge/CodeChef-895F44?style=flat-square&logo=codechef&logoColor=white)](https://www.codechef.com/users/g26karthikk)
