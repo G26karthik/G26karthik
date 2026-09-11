@@ -24,13 +24,11 @@ I build AI systems that have to be right: agents, retrieval, and the evals that 
 
 ### Selected work
 
-| | |
-|---|---|
-| [algosentinel](https://github.com/G26karthik/algosentinel) | An agent that profiles PR code in Docker sandboxes to catch O(n) → O(n²) regressions |
-| [kvquant-lab](https://github.com/G26karthik/kvquant-lab) | 4.65× KV-cache compression at near-baseline perplexity, extending TurboQuant |
-| [EdgeSentinel](https://github.com/G26karthik/EdgeSentinel) | Bot detection on Cloudflare Workers with under 10 ms of overhead per request |
-| [sandbox-warm-pool-controller](https://github.com/G26karthik/sandbox-warm-pool-controller) | A Kubernetes controller in Go that pre-warms gVisor and Kata sandbox pods |
-| [Forensic-Evidence-Indexer](https://github.com/G26karthik/Forensic-Evidence-Indexer) | A C++17 streaming hash and dedupe pipeline with backpressure |
+- [algosentinel](https://github.com/G26karthik/algosentinel): an agent that profiles PR code in Docker sandboxes to catch O(n) → O(n²) regressions
+- [kvquant-lab](https://github.com/G26karthik/kvquant-lab): 4.65× KV-cache compression at near-baseline perplexity, extending TurboQuant
+- [EdgeSentinel](https://github.com/G26karthik/EdgeSentinel): bot detection on Cloudflare Workers with under 10 ms of overhead per request
+- [sandbox-warm-pool-controller](https://github.com/G26karthik/sandbox-warm-pool-controller): a Kubernetes controller in Go that pre-warms gVisor and Kata sandbox pods
+- [Forensic-Evidence-Indexer](https://github.com/G26karthik/Forensic-Evidence-Indexer): a C++17 streaming hash and dedupe pipeline with backpressure
 
 ### Open source
 
