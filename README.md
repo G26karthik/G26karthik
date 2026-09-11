@@ -10,7 +10,9 @@
   <a href="https://langfuse.com/security/responsible-disclosure#hall-of-fame"><img src="https://img.shields.io/badge/Langfuse-Security_Hall_of_Fame-eb6834?style=for-the-badge" alt="Langfuse Security Hall of Fame"></a>
   <img src="https://img.shields.io/badge/Microsoft_Certified-AI--103_%C2%B7_DP--800-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft Certified AI-103 and DP-800">
   <br>
-  <a href="https://www.codechef.com/users/g26karthikk"><img src="https://img.shields.io/badge/CodeChef-2483_%C2%B7_%236_India-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef 2483, rank 6 in India"></a>
+<a href="https://www.codechef.com/users/g26karthikk">
+  <img src="https://img.shields.io/badge/CodeChef-6%E2%98%85_%C2%B7_2483_%C2%B7_%234_India-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef 6 star, rating 2483, rank 4 in India">
+</a>
   <a href="https://leetcode.com/u/G26KarthikK/"><img src="https://img.shields.io/badge/LeetCode-2665_Guardian-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode 2665 Guardian"></a>
 </p>
 
@@ -128,8 +130,6 @@
 <sub>More: [Setu](https://github.com/G26karthik/Sethu-AI) (district health network with a human-approved allocation solver) · [Forensic Evidence Indexer](https://github.com/G26karthik/Forensic-Evidence-Indexer) (C++17 streaming hasher) · [MindSafe](https://github.com/G26karthik/MindSafe) (ZK-proof mental-health dApp) · [Avia](https://github.com/G26karthik/Avia) (fraud-detection SaaS) · [FounderOS](https://github.com/G26karthik/FounderOS) (🥈 2nd prize)</sub>
 
 ## 🌍 Open Source
-
-38 PRs to 19+ external repositories. The ones that landed:
 
 | Project | What I contributed | Status |
 |---|---|---|
