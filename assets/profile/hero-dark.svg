@@ -19,7 +19,7 @@
       .v { opacity: 1; }
     }
   </style>
-  <text class="mono cap" x="4" y="30">applied AI engineer @ RamanIQ · hyderabad</text>
+  <text class="mono cap" x="4" y="30">Applied AI Engineer @ RamanIQ · Hyderabad</text>
   <text class="name" x="2" y="86">G. Karthik Koundinya</text>
   <text class="line" x="4" y="128">I build AI that holds up in production:</text>
     <text class="w w0" style="animation-delay:0.0s" x="374" y="128">agents</text>

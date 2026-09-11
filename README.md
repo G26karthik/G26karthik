@@ -6,7 +6,6 @@
 <p align="center">
   <a href="https://github.com/G26karthik/whatsapp-notification-router"><img src="https://img.shields.io/badge/HackerRank_Orchestrate_Aug_'26-20th_of_1%2C983-2a78d6?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank Orchestrate Aug 2026: 20th of 1,983"></a>
   <a href="https://github.com/G26karthik/grounded-support-triage"><img src="https://img.shields.io/badge/HackerRank_Orchestrate_May_'26-12th_of_12%2C885-2a78d6?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank Orchestrate May 2026: 12th of 12,885"></a>
-  <a href="#-open-source"><img src="https://img.shields.io/badge/Open_Source-12_merged_PRs-1baf7a?style=for-the-badge&logo=github&logoColor=white" alt="12 merged PRs"></a>
   <a href="https://langfuse.com/security/responsible-disclosure#hall-of-fame"><img src="https://img.shields.io/badge/Langfuse-Security_Hall_of_Fame-eb6834?style=for-the-badge" alt="Langfuse Security Hall of Fame"></a>
   <br>
   <img src="https://img.shields.io/badge/Microsoft_Certified-AI--103_%C2%B7_DP--800-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft Certified AI-103 and DP-800">
@@ -21,15 +20,13 @@
   <a href="https://github.com/search?q=author%3AG26karthik+is%3Apr&type=pullrequests&s=created&o=desc">all my PRs</a>
 </samp></p>
 
-**Applied AI Engineer at RamanIQ.** I build AI systems that have to be right: agents, retrieval, and the evals that keep them honest. Before this, I shipped production ML at Hecta Proptech and was the sole full-stack engineer at [chkchk](https://chkchk.ai). B.Tech CSE '27, Hyderabad.
+**Applied AI Engineer at RamanIQ.** I build AI systems that have to be right: agents, retrieval, and the evals that keep them honest. Before this, I shipped production ML at Hecta Proptech and was the sole full-stack engineer at chkchk, a stealth startup. B.Tech CSE '27, Hyderabad.
 
 <table align="center">
   <tr>
-    <td align="center"><sub>RANK</sub><h3>20th</h3><sub>of 1,983 · Orchestrate Aug '26</sub></td>
-    <td align="center"><sub>RANK</sub><h3>12th</h3><sub>of 12,885 · Orchestrate May '26</sub></td>
-    <td align="center"><sub>LANDED UPSTREAM</sub><h3>13</h3><sub>12 merged PRs + a Langfuse fix</sub></td>
-    <td align="center"><sub>MERGED INTO</sub><h3>165K★</h3><sub>combined ★ of projects I merged into</sub></td>
-    <td align="center"><sub>IN PRODUCTION</sub><h3>175K+</h3><sub>auction notices scored</sub></td>
+    <td align="center"><sub>SERVING</sub><h3>5K+ users/day</h3><sub>production ML at Hecta Proptech</sub></td>
+    <td align="center"><sub>LANDED UPSTREAM</sub><h3>13 contributions</h3><sub>12 merged PRs + a Langfuse fix</sub></td>
+    <td align="center"><sub>MERGED INTO</sub><h3>165K★ projects</h3><sub>pandas · mem0 · matplotlib · more</sub></td>
   </tr>
 </table>
 
@@ -39,7 +36,7 @@
 |---|---|---|
 | **Applied AI Engineer** | RamanIQ · Sep 2026 – now | Just joined; building applied AI systems |
 | **Tech Engineer, AI & Backend** | Hecta Proptech · Jun – Jul 2026 | CatBoost + GPU embeddings over **175K+ auction notices**: **84.3% ROC-AUC**, **80% less manual review**. A Cox survival model (**0.79 C-index**) behind a validated Flask API, and the first hybrid RAG platform |
-| **Full Stack Engineer (sole)** | [chkchk](https://chkchk.ai) · Jan – Apr 2026 | Built a creative-talent marketplace end to end on Next.js and Supabase: **−50% DB calls, −30% latency**, realtime, EC2 + CI/CD, and the Android app. **66 of 74 commits** |
+| **Full Stack Engineer (sole)** | chkchk (stealth startup) · Jan – Apr 2026 | Built a creative-talent marketplace end to end on Next.js and Supabase: **−50% DB calls, −30% latency**, realtime, EC2 + CI/CD, and the Android app. **66 of 74 commits** |
 | **AI & Frontend Intern** | Edunet Foundation · 2025 | A Whisper + T5 lecture-to-notes pipeline, **~80% faster** with GPU inference and caching |
 
 ## 🚀 My Projects
@@ -49,7 +46,7 @@
 <td width="50%" valign="top">
 
 **[WhatsApp Notification Router](https://github.com/G26karthik/whatsapp-notification-router)**<br>
-`🏆 20th / 1,983` `LLM consensus` `safety`
+`LLM consensus` `multimodal` `safety`
 
 - Decides **notify, digest or mute** per user across text, images and voice: a **5-vote LLM majority** over a closed bank of 27 reasons, with code deciding action and confidence.
 - **Muted 8 of 8** scam and prompt-injection attacks. Survived **5 mid-run kills** with zero lost calls. Honest [post-mortem](https://github.com/G26karthik/whatsapp-notification-router#post-mortem-why-20th-and-not-1st).
@@ -69,7 +66,7 @@
 <td width="50%" valign="top">
 
 **[Grounded Support Triage](https://github.com/G26karthik/grounded-support-triage)**<br>
-`🏆 12th / 12,885` `LangGraph` `hybrid RAG`
+`LangGraph` `hybrid RAG` `citation critic`
 
 - Multi-agent triage over a 774-document corpus: **BM25 + dense + cross-encoder rerank**, and a deterministic citation critic that blocks unsupported answers.
 - **0–2 LLM calls per ticket** thanks to regex fast paths and structured routing.
@@ -131,7 +128,7 @@
 
 ## 🌍 Open Source
 
-**12 merged PRs, plus 1 fix shipped upstream**, out of 38 PRs to 19+ external repositories.
+38 PRs to 19+ external repositories. The ones that landed:
 
 | Project | What I contributed | Status |
 |---|---|---|
@@ -142,18 +139,10 @@
 | [sktime](https://github.com/sktime/sktime/pull/8923) · 10K★ | Fixed broken pytorch-forecasting references in the forecaster adapters | ✅ Merged |
 | [SQLFluff](https://github.com/sqlfluff/sqlfluff/pull/7163) · 9.9K★ | A PostgreSQL `OPERATOR(schema.op)` parser, **649 lines** with fixtures | ✅ Merged |
 | [HackerRank hiring-agent](https://github.com/interviewstreet/hiring-agent/pulls?q=is%3Apr+author%3AG26karthik) · 7.2K★ | Fixed a PyMuPDF memory leak and a Windows UTF-8 crash | ✅ 2 Merged |
-| [chkchk](https://github.com/vinayrealai/panzee/pulls?q=is%3Apr+author%3AG26karthik) (startup) | The Android app (Capacitor) and the full rebrand, **+5.6K lines** | ✅ 2 Merged |
+| chkchk (startup) | The Android app (Capacitor) and the full rebrand, **+5.6K lines** | ✅ 2 Merged |
 | [naija-nutri-hub](https://github.com/mlsanigeria/naija-nutri-hub/pull/52) | OTP email verification on signup | ✅ Merged |
 
 <sub>Also: `/lgtm` from Koordinator maintainers for a webhook-crash fix, "LGTM" at Google ADK, and open PRs to Kubeflow SDK and SymPy.</sub>
-
-## 🏆 Achievements
-
-- 🥇 **HackerRank Orchestrate**, a 24-hour agentic-AI build competition: **20th of 1,983** (Aug '26) and **12th of 12,885 developers** from 48 countries (May '26)
-- 🥈 **2nd prize**, Ambient Intelligence Hackathon (FounderOS) · 🎯 VoiceHack 2026 finalist · won or placed in 5+ other hackathons
-- 🛡️ **Langfuse Responsible Disclosure Hall of Fame** for an access-control bug
-- 📜 Microsoft Certified **AI-103** and **DP-800** · MongoDB Associate Developer · Oracle OCI Generative AI Professional
-- ⚔️ **CodeChef 2483** (6★, #6 India, #76 global) · **LeetCode 2665** (Guardian)
 
 ## 🛠 Tech Stack
 
