@@ -171,8 +171,8 @@
     <img src="https://github-readme-stats-fast.vercel.app/api?username=G26karthik&show_icons=true&include_all_commits=true&hide_border=true&hide_rank=true" alt="GitHub stats" height="165">
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api/top-langs?username=G26karthik&layout=compact&hide_border=true&hide=html,css&langs_count=8&theme=github_dark">
-    <img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=G26karthik&layout=compact&hide_border=true&hide=html,css&langs_count=8" alt="Top languages" height="165">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api/top-langs?username=G26karthik&layout=compact&hide_border=true&hide=html%2Ccss&langs_count=8&theme=github_dark">
+    <img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=G26karthik&layout=compact&hide_border=true&hide=html%2Ccss&langs_count=8" alt="Top languages" height="165">
   </picture>
 </p>
 
