@@ -6,9 +6,10 @@
 <p align="center">
   <a href="https://github.com/G26karthik/whatsapp-notification-router"><img src="https://img.shields.io/badge/HackerRank_Orchestrate_Aug_'26-20th_of_1%2C983-2a78d6?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank Orchestrate Aug 2026: 20th of 1,983"></a>
   <a href="https://github.com/G26karthik/grounded-support-triage"><img src="https://img.shields.io/badge/HackerRank_Orchestrate_May_'26-12th_of_12%2C885-2a78d6?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank Orchestrate May 2026: 12th of 12,885"></a>
-  <a href="https://langfuse.com/security/responsible-disclosure#hall-of-fame"><img src="https://img.shields.io/badge/Langfuse-Security_Hall_of_Fame-eb6834?style=for-the-badge" alt="Langfuse Security Hall of Fame"></a>
   <br>
+  <a href="https://langfuse.com/security/responsible-disclosure#hall-of-fame"><img src="https://img.shields.io/badge/Langfuse-Security_Hall_of_Fame-eb6834?style=for-the-badge" alt="Langfuse Security Hall of Fame"></a>
   <img src="https://img.shields.io/badge/Microsoft_Certified-AI--103_%C2%B7_DP--800-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft Certified AI-103 and DP-800">
+  <br>
   <a href="https://www.codechef.com/users/g26karthikk"><img src="https://img.shields.io/badge/CodeChef-2483_%C2%B7_%236_India-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef 2483, rank 6 in India"></a>
   <a href="https://leetcode.com/u/G26KarthikK/"><img src="https://img.shields.io/badge/LeetCode-2665_Guardian-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode 2665 Guardian"></a>
 </p>
