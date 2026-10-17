@@ -1,6 +1,6 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/profile/hero-dark.svg">
-  <img alt="G. Karthik Koundinya, Applied AI Engineer at RamanIQ. I build AI that holds up in production: agents, retrieval systems, risk models, evals." src="./assets/profile/hero-light.svg" width="100%">
+  <img alt="G. Karthik Koundinya, Applied AI engineer. I build AI that holds up in production: agents, retrieval systems, risk models, evals." src="./assets/profile/hero-light.svg" width="100%">
 </picture>
 
 <p align="center">
@@ -25,7 +25,7 @@
   <a href="https://github.com/search?q=author%3AG26karthik+is%3Apr&type=pullrequests&s=created&o=desc">all my PRs</a>
 </samp></p>
 
-**Applied AI Engineer at RamanIQ.** I build AI systems that have to be right: agents, retrieval, and the evals that keep them honest. Before this, I shipped production ML at Hecta Proptech and was the sole full-stack engineer at chkchk, a stealth startup. I'm also first author of a quantum-ML paper ([QNC](https://github.com/G26karthik/QNC)) that is in revision after peer review. B.Tech CSE '27, Hyderabad.
+**Applied AI engineer.** I build AI systems that have to be right: agents, retrieval, and the evals that keep them honest. Most recently I built REFEREE, an autonomous research-review product, as an AI engineering intern at RamanIQ. Before that, I shipped production ML at Hecta Proptech and was the sole full-stack engineer at chkchk, a stealth startup. I'm also first author of a quantum-ML paper ([QNC](https://github.com/G26karthik/QNC)) that is in revision after peer review. B.Tech CSE '27, Hyderabad.
 
 <table align="center">
   <tr>
@@ -39,7 +39,7 @@
 
 | Role | Where | What I did |
 |---|---|---|
-| **Applied AI Engineer** | RamanIQ (AI startup) · Aug 2026 – now | **REFEREE**, an autonomous research-review product: multi-agent orchestration plus deterministic pipelines for paper analysis, experiment execution and evidence-backed verdicts, at **~87% accuracy on evals and tests**. Screened **36K+ papers** to curate 380+ reproduction candidates. **19+ PRs** shipping connectors, UI and backend features |
+| **Applied AI Engineer Intern** | RamanIQ (AI startup) · Aug – Oct 2026 | **REFEREE**, an autonomous research-review product: multi-agent orchestration plus deterministic pipelines for paper analysis, experiment execution and evidence-backed verdicts, at **~87% accuracy on evals and tests**. Screened **36K+ papers** to curate 380+ reproduction candidates. **19+ PRs** shipping connectors, UI and backend features |
 | **Tech Engineer, AI & Backend** | Hecta Proptech · Jun – Jul 2026 | CatBoost + GPU embeddings over **175K+ auction notices**: **84.3% ROC-AUC**, **80% less manual review**. A Cox survival model (**0.79 C-index**) behind a validated Flask API, and the first hybrid RAG platform |
 | **Full Stack Engineer (sole)** | chkchk (stealth startup) · Jan – Apr 2026 | Built a creative-talent marketplace end to end on Next.js and Supabase: **−50% DB calls, −30% latency**, realtime, EC2 + CI/CD, and the Android app. **66 of 74 commits** |
 | **AI & Frontend Intern** | Edunet Foundation · 2025 | A Whisper + T5 lecture-to-notes pipeline, **~80% faster** with GPU inference and caching |
