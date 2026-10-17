@@ -4,7 +4,7 @@
 </picture>
 
 <p align="center">
-  <a href="https://github.com/G26karthik/Doppelganger"><img src="https://img.shields.io/badge/Amazon_ML_Challenge_'26-38th_of_32%2C000%2B_teams-FF9900?style=for-the-badge&logo=amazon&logoColor=white" alt="Amazon ML Challenge 2026: 38th of 32,000+ teams"></a>
+  <a href="https://github.com/G26karthik/bizmatch-amazon-ml-2026"><img src="https://img.shields.io/badge/Amazon_ML_Challenge_'26-38th_of_32%2C000%2B_teams-FF9900?style=for-the-badge&logo=amazon&logoColor=white" alt="Amazon ML Challenge 2026: 38th of 32,000+ teams"></a>
   <br>
   <a href="https://github.com/G26karthik/whatsapp-notification-router"><img src="https://img.shields.io/badge/HackerRank_Orchestrate_Aug_'26-20th_of_1%2C983-2a78d6?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank Orchestrate Aug 2026: 20th of 1,983"></a>
   <a href="https://github.com/G26karthik/grounded-support-triage"><img src="https://img.shields.io/badge/HackerRank_Orchestrate_May_'26-12th_of_12%2C885-2a78d6?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank Orchestrate May 2026: 12th of 12,885"></a>
@@ -47,6 +47,26 @@
 ## 🚀 My Projects
 
 <table>
+<tr>
+<td width="50%" valign="top">
+
+**[BizMatch](https://github.com/G26karthik/bizmatch-amazon-ml-2026)**: Amazon ML Challenge 2026<br>
+`🏆 38th of 32,000+` `entity resolution` `cross-encoders`
+
+- Finds every real copy of a business across **10M noisy records** and rejects decoys, across the US, India and an unlabeled France.
+- e5 retrieval, a 3-stage LightGBM cascade, 7 cross-encoders and exact expected-F0.5 decisions: **0.921 → 0.990 F0.5**, all on free compute. I led the team.
+
+</td>
+<td width="50%" valign="top">
+
+**[QNC](https://github.com/G26karthik/QNC)**: quantum ML research paper<br>
+`first author` `PennyLane` `IBM quantum hardware`
+
+- Shows that training-time neural collapse in variational quantum classifiers is an **exact rotation**, verified to ~10⁻¹⁵ on MNIST and Fashion-MNIST.
+- Confirmed on **two IBM quantum backends**, with 52 preregistered predictions. Now in major revision after peer review.
+
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 
@@ -129,7 +149,7 @@
 </tr>
 </table>
 
-<sub>More: [QNC](https://github.com/G26karthik/QNC) (quantum neural-collapse paper, verified on IBM quantum hardware) · [TraceWarrant](https://github.com/G26karthik/tracewarrant) (evidence checker for agent performance claims) · [Buy or Wait](https://github.com/G26karthik/Buy-OR-Wait-Agentic-Decision-System) (financial decision engine, HackerRank Orchestrate Sep '26) · [Setu](https://github.com/G26karthik/Sethu-AI) (district health network with a human-approved allocation solver) · [Forensic Evidence Indexer](https://github.com/G26karthik/Forensic-Evidence-Indexer) (C++17 streaming hasher) · [MindSafe](https://github.com/G26karthik/MindSafe) (ZK-proof mental-health dApp) · [Avia](https://github.com/G26karthik/Avia) (fraud-detection SaaS) · [FounderOS](https://github.com/G26karthik/FounderOS) (🥈 2nd prize)</sub>
+<sub>More: [TraceWarrant](https://github.com/G26karthik/tracewarrant) (evidence checker for agent performance claims) · [Buy or Wait](https://github.com/G26karthik/Buy-OR-Wait-Agentic-Decision-System) (financial decision engine, HackerRank Orchestrate Sep '26) · [Setu](https://github.com/G26karthik/Sethu-AI) (district health network with a human-approved allocation solver) · [Forensic Evidence Indexer](https://github.com/G26karthik/Forensic-Evidence-Indexer) (C++17 streaming hasher) · [MindSafe](https://github.com/G26karthik/MindSafe) (ZK-proof mental-health dApp) · [Avia](https://github.com/G26karthik/Avia) (fraud-detection SaaS) · [FounderOS](https://github.com/G26karthik/FounderOS) (🥈 2nd prize)</sub>
 
 ## 🌍 Open Source
 
