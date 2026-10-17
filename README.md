@@ -39,7 +39,7 @@
 
 | Role | Where | What I did |
 |---|---|---|
-| **Applied AI Engineer** | RamanIQ (AI startup) · Sep 2026 – now | **REFEREE**, an autonomous research-review system: multi-agent orchestration plus deterministic pipelines that turn a paper's claims into containerized experiments and evidence-backed verdicts, sourced from **36K+ screened papers**. Regulatory and patent-data connectors (FDA, EPO, Health Canada, Federal Register) for a pharma IP platform, and mentor resume review for a student platform |
+| **Applied AI Engineer** | RamanIQ (AI startup) · Aug 2026 – now | **REFEREE**, an autonomous research-review product: multi-agent orchestration plus deterministic pipelines for paper analysis, experiment execution and evidence-backed verdicts, at **~87% accuracy on evals and tests**. Screened **36K+ papers** to curate 380+ reproduction candidates. **19+ PRs** shipping connectors, UI and backend features |
 | **Tech Engineer, AI & Backend** | Hecta Proptech · Jun – Jul 2026 | CatBoost + GPU embeddings over **175K+ auction notices**: **84.3% ROC-AUC**, **80% less manual review**. A Cox survival model (**0.79 C-index**) behind a validated Flask API, and the first hybrid RAG platform |
 | **Full Stack Engineer (sole)** | chkchk (stealth startup) · Jan – Apr 2026 | Built a creative-talent marketplace end to end on Next.js and Supabase: **−50% DB calls, −30% latency**, realtime, EC2 + CI/CD, and the Android app. **66 of 74 commits** |
 | **AI & Frontend Intern** | Edunet Foundation · 2025 | A Whisper + T5 lecture-to-notes pipeline, **~80% faster** with GPU inference and caching |
