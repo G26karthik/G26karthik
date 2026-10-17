@@ -4,6 +4,8 @@
 </picture>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/Amazon_ML_Challenge_'26-38th_of_32%2C000%2B_teams-FF9900?style=for-the-badge&logo=amazon&logoColor=white" alt="Amazon ML Challenge 2026: 38th of 32,000+ teams">
+  <br>
   <a href="https://github.com/G26karthik/whatsapp-notification-router"><img src="https://img.shields.io/badge/HackerRank_Orchestrate_Aug_'26-20th_of_1%2C983-2a78d6?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank Orchestrate Aug 2026: 20th of 1,983"></a>
   <a href="https://github.com/G26karthik/grounded-support-triage"><img src="https://img.shields.io/badge/HackerRank_Orchestrate_May_'26-12th_of_12%2C885-2a78d6?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank Orchestrate May 2026: 12th of 12,885"></a>
   <br>
@@ -13,7 +15,7 @@
 <a href="https://www.codechef.com/users/g26karthikk">
   <img src="https://img.shields.io/badge/CodeChef-6%E2%98%85_%C2%B7_2483_%C2%B7_%234_India-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef 6 star, rating 2483, rank 4 in India">
 </a>
-  <a href="https://leetcode.com/u/G26KarthikK/"><img src="https://img.shields.io/badge/LeetCode-2665_Guardian-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode 2665 Guardian"></a>
+  <a href="https://leetcode.com/u/G26KarthikK/"><img src="https://img.shields.io/badge/LeetCode-2720_Guardian-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode 2720 Guardian"></a>
 </p>
 
 <p align="center"><samp>
@@ -23,13 +25,13 @@
   <a href="https://github.com/search?q=author%3AG26karthik+is%3Apr&type=pullrequests&s=created&o=desc">all my PRs</a>
 </samp></p>
 
-**Applied AI Engineer at RamanIQ.** I build AI systems that have to be right: agents, retrieval, and the evals that keep them honest. Before this, I shipped production ML at Hecta Proptech and was the sole full-stack engineer at chkchk, a stealth startup. B.Tech CSE '27, Hyderabad.
+**Applied AI Engineer at RamanIQ.** I build AI systems that have to be right: agents, retrieval, and the evals that keep them honest. Before this, I shipped production ML at Hecta Proptech and was the sole full-stack engineer at chkchk, a stealth startup. I'm also first author of a quantum-ML paper ([QNC](https://github.com/G26karthik/QNC)) that is in revision after peer review. B.Tech CSE '27, Hyderabad.
 
 <table align="center">
   <tr>
     <td align="center"><sub>SERVING</sub><h3>5K+ users/day</h3><sub>production ML at Hecta Proptech</sub></td>
-    <td align="center"><sub>LANDED UPSTREAM</sub><h3>13 contributions</h3><sub>12 merged PRs + a Langfuse fix</sub></td>
-    <td align="center"><sub>MERGED INTO</sub><h3>165K★ projects</h3><sub>pandas · mem0 · matplotlib · more</sub></td>
+    <td align="center"><sub>LANDED UPSTREAM</sub><h3>12 merged PRs</h3><sub>9 projects, plus a Langfuse fix</sub></td>
+    <td align="center"><sub>MERGED INTO</sub><h3>320K★ projects</h3><sub>PyTorch · pandas · mem0 · more</sub></td>
   </tr>
 </table>
 
@@ -37,7 +39,7 @@
 
 | Role | Where | What I did |
 |---|---|---|
-| **Applied AI Engineer** | RamanIQ · Sep 2026 – now | Just joined; building applied AI systems |
+| **Applied AI Engineer** | RamanIQ (AI startup) · Sep 2026 – now | **REFEREE**, an autonomous research-review system: multi-agent orchestration plus deterministic pipelines that turn a paper's claims into containerized experiments and evidence-backed verdicts, sourced from **36K+ screened papers**. Regulatory and patent-data connectors (FDA, EPO, Health Canada, Federal Register) for a pharma IP platform, and mentor resume review for a student platform |
 | **Tech Engineer, AI & Backend** | Hecta Proptech · Jun – Jul 2026 | CatBoost + GPU embeddings over **175K+ auction notices**: **84.3% ROC-AUC**, **80% less manual review**. A Cox survival model (**0.79 C-index**) behind a validated Flask API, and the first hybrid RAG platform |
 | **Full Stack Engineer (sole)** | chkchk (stealth startup) · Jan – Apr 2026 | Built a creative-talent marketplace end to end on Next.js and Supabase: **−50% DB calls, −30% latency**, realtime, EC2 + CI/CD, and the Android app. **66 of 74 commits** |
 | **AI & Frontend Intern** | Edunet Foundation · 2025 | A Whisper + T5 lecture-to-notes pipeline, **~80% faster** with GPU inference and caching |
@@ -127,23 +129,25 @@
 </tr>
 </table>
 
-<sub>More: [Setu](https://github.com/G26karthik/Sethu-AI) (district health network with a human-approved allocation solver) · [Forensic Evidence Indexer](https://github.com/G26karthik/Forensic-Evidence-Indexer) (C++17 streaming hasher) · [MindSafe](https://github.com/G26karthik/MindSafe) (ZK-proof mental-health dApp) · [Avia](https://github.com/G26karthik/Avia) (fraud-detection SaaS) · [FounderOS](https://github.com/G26karthik/FounderOS) (🥈 2nd prize)</sub>
+<sub>More: [QNC](https://github.com/G26karthik/QNC) (quantum neural-collapse paper, verified on IBM quantum hardware) · [TraceWarrant](https://github.com/G26karthik/tracewarrant) (evidence checker for agent performance claims) · [Buy or Wait](https://github.com/G26karthik/Buy-OR-Wait-Agentic-Decision-System) (financial decision engine, HackerRank Orchestrate Sep '26) · [Setu](https://github.com/G26karthik/Sethu-AI) (district health network with a human-approved allocation solver) · [Forensic Evidence Indexer](https://github.com/G26karthik/Forensic-Evidence-Indexer) (C++17 streaming hasher) · [MindSafe](https://github.com/G26karthik/MindSafe) (ZK-proof mental-health dApp) · [Avia](https://github.com/G26karthik/Avia) (fraud-detection SaaS) · [FounderOS](https://github.com/G26karthik/FounderOS) (🥈 2nd prize)</sub>
 
 ## 🌍 Open Source
 
 | Project | What I contributed | Status |
 |---|---|---|
-| [mem0](https://github.com/mem0ai/mem0/pull/3549) · 65K★ | The Azure AI Search vector store for the TypeScript SDK: hybrid search and quantization, **754 lines** | ✅ Merged |
-| [pandas](https://github.com/pandas-dev/pandas/pulls?q=is%3Apr+author%3AG26karthik) · 49.7K★ | A PyArrow datetime-merge regression test, Ruff B905 enforcement, and a docstring migration | ✅ 3 Merged |
-| [Langfuse](https://github.com/langfuse/langfuse/pull/14789) · 34.5K★ | Found a prompt-cache key collision (version `3` vs label `"3"` served each other's prompt) | 🚀 Shipped via [#15040](https://github.com/langfuse/langfuse/pull/15040) |
+| [PyTorch](https://github.com/pytorch/pytorch/pull/199953) · 105K★ | `SGD` now rejects NaN `lr`, `momentum` and `weight_decay` instead of silently training on NaN, matching the other optimizers | ✅ Merged |
+| [mem0](https://github.com/mem0ai/mem0/pull/3549) · 67K★ | The Azure AI Search vector store for the TypeScript SDK: hybrid search and quantization, **754 lines** | ✅ Merged |
+| [Hindsight](https://github.com/vectorize-io/hindsight/pull/5092) · 50.6K★ | Fixed audit-log rows silently lost to garbage-collected write tasks and at shutdown | ✅ Merged |
+| [pandas](https://github.com/pandas-dev/pandas/pulls?q=is%3Apr+author%3AG26karthik) · 50K★ | A PyArrow datetime-merge regression test, Ruff B905 enforcement, and a docstring migration | ✅ 3 Merged |
+| [Langfuse](https://github.com/langfuse/langfuse/pull/14789) · 36K★ | Found a prompt-cache key collision (version `3` vs label `"3"` served each other's prompt) | 🚀 Shipped via [#15040](https://github.com/langfuse/langfuse/pull/15040) |
 | [matplotlib](https://github.com/matplotlib/matplotlib/pull/30639) · 23K★ | Documented the TwoSlopeNorm linear-colorbar workaround | ✅ Merged |
 | [sktime](https://github.com/sktime/sktime/pull/8923) · 10K★ | Fixed broken pytorch-forecasting references in the forecaster adapters | ✅ Merged |
-| [SQLFluff](https://github.com/sqlfluff/sqlfluff/pull/7163) · 9.9K★ | A PostgreSQL `OPERATOR(schema.op)` parser, **649 lines** with fixtures | ✅ Merged |
-| [HackerRank hiring-agent](https://github.com/interviewstreet/hiring-agent/pulls?q=is%3Apr+author%3AG26karthik) · 7.2K★ | Fixed a PyMuPDF memory leak and a Windows UTF-8 crash | ✅ 2 Merged |
+| [SQLFluff](https://github.com/sqlfluff/sqlfluff/pull/7163) · 10K★ | A PostgreSQL `OPERATOR(schema.op)` parser, **649 lines** with fixtures | ✅ Merged |
+| [HackerRank hiring-agent](https://github.com/interviewstreet/hiring-agent/pulls?q=is%3Apr+author%3AG26karthik) · 7.3K★ | Fixed a PyMuPDF memory leak and a Windows UTF-8 crash | ✅ 2 Merged |
 | chkchk (startup) | The Android app (Capacitor) and the full rebrand, **+5.6K lines** | ✅ 2 Merged |
 | [naija-nutri-hub](https://github.com/mlsanigeria/naija-nutri-hub/pull/52) | OTP email verification on signup | ✅ Merged |
 
-<sub>Also: `/lgtm` from Koordinator maintainers for a webhook-crash fix, "LGTM" at Google ADK, and open PRs to Kubeflow SDK and SymPy.</sub>
+<sub>Also: `/lgtm` from Koordinator maintainers for a webhook-crash fix, "LGTM" at Google ADK, and open PRs to PyTorch-Ignite, QuTiP, Kubeflow SDK and SymPy.</sub>
 
 ## 🛠 Tech Stack
 
