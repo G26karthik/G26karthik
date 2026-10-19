@@ -30,8 +30,8 @@
 <table align="center">
   <tr>
     <td align="center"><sub>SERVING</sub><h3>5K+ users/day</h3><sub>production ML at Hecta Proptech</sub></td>
-    <td align="center"><sub>LANDED UPSTREAM</sub><h3>12 merged PRs</h3><sub>9 projects, plus a Langfuse fix</sub></td>
-    <td align="center"><sub>MERGED INTO</sub><h3>320K★ projects</h3><sub>PyTorch · pandas · mem0 · more</sub></td>
+    <td align="center"><sub>LANDED UPSTREAM</sub><h3>17 merged PRs</h3><sub>13 projects, plus a Langfuse fix</sub></td>
+    <td align="center"><sub>MERGED INTO</sub><h3>330K★ projects</h3><sub>PyTorch · pandas · mem0 · NumPyro · QuTiP</sub></td>
   </tr>
 </table>
 
@@ -164,10 +164,14 @@
 | [sktime](https://github.com/sktime/sktime/pull/8923) · 10K★ | Fixed broken pytorch-forecasting references in the forecaster adapters | ✅ Merged |
 | [SQLFluff](https://github.com/sqlfluff/sqlfluff/pull/7163) · 10K★ | A PostgreSQL `OPERATOR(schema.op)` parser, **649 lines** with fixtures | ✅ Merged |
 | [HackerRank hiring-agent](https://github.com/interviewstreet/hiring-agent/pulls?q=is%3Apr+author%3AG26karthik) · 7.3K★ | Fixed a PyMuPDF memory leak and a Windows UTF-8 crash | ✅ 2 Merged |
+| [PyTorch-Ignite](https://github.com/pytorch/ignite/pull/3876) · 4.8K★ | `ReduceLROnPlateauScheduler` now honours `min_lr` for every param group, not only the first | ✅ Merged |
+| [NumPyro](https://github.com/pyro-ppl/numpyro/pulls?q=is%3Apr+author%3AG26karthik+is%3Amerged) · 2.8K★ | Hurdle distributions over positive bases now include zero in their support, and `init_to_mean` falls back to the median when the mean is not finite | ✅ 2 Merged |
+| [QuTiP](https://github.com/qutip/qutip/pull/3049) · 2.1K★ | `rand_dm` and `rand_herm` no longer hang forever when all eigenvalues are equal | ✅ Merged |
+| [pymc-extras](https://github.com/pymc-devs/pymc-extras/pull/802) · PyMC ecosystem | Traced a Windows-only Pathfinder test failure to numba cache numerics and re-enabled the test with a better-conditioned model | ✅ Merged |
 | chkchk (startup) | The Android app (Capacitor) and the full rebrand, **+5.6K lines** | ✅ 2 Merged |
 | [naija-nutri-hub](https://github.com/mlsanigeria/naija-nutri-hub/pull/52) | OTP email verification on signup | ✅ Merged |
 
-<sub>Also: `/lgtm` from Koordinator maintainers for a webhook-crash fix, "LGTM" at Google ADK, and open PRs to PyTorch-Ignite, QuTiP, Kubeflow SDK and SymPy.</sub>
+<sub>Also: `/lgtm` from Koordinator maintainers for a webhook-crash fix, "LGTM" at Google ADK, and open PRs to PyMC-Marketing, PennyLane, Kubeflow SDK, sbi, ArviZ, pyhf, sentence-transformers and FOSSASIA.</sub>
 
 ## 🛠 Tech Stack
 
