@@ -10,12 +10,12 @@
 </p>
 
 <p align="center">
-  <a href="https://g26karthik.dev/achievements/"><img src="https://img.shields.io/badge/HackerRank_Orchestrate_Oct_'26-%231_of_4%2C218-2a78d6?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank Orchestrate October 2026: 1st of 4,218 in Round 1"></a>
+  <a href="https://g26karthik.dev/achievements/"><img src="https://img.shields.io/badge/HackerRank_Orchestrate_Oct_'26-1st_of_4%2C218-2a78d6?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank Orchestrate October 2026: 1st of 4,218 in Round 1"></a>
   <a href="https://github.com/G26karthik/bizmatch-amazon-ml-2026"><img src="https://img.shields.io/badge/Amazon_ML_Challenge_'26-38th_of_32%2C000%2B_teams-FF9900?style=for-the-badge&logo=amazon&logoColor=white" alt="Amazon ML Challenge 2026: 38th of 32,000+ teams"></a>
   <br>
   <a href="https://langfuse.com/security/responsible-disclosure#hall-of-fame"><img src="https://img.shields.io/badge/Langfuse-Security_Hall_of_Fame-eb6834?style=for-the-badge" alt="Langfuse Security Hall of Fame"></a>
   <img src="https://img.shields.io/badge/Microsoft_Certified-AI--103_%C2%B7_DP--800-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft Certified AI-103 and DP-800">
-  <a href="https://www.codechef.com/users/g26karthikk"><img src="https://img.shields.io/badge/CodeChef-6%E2%98%85_%C2%B7_2483_%C2%B7_%234_India-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef 6 star, rating 2483, rank 4 in India"></a>
+  <a href="https://www.codechef.com/users/g26karthikk"><img src="https://img.shields.io/badge/CodeChef-6%E2%98%85_%C2%B7_2483_%C2%B7_4th_in_India-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef 6 star, rating 2483, rank 4 in India"></a>
   <a href="https://leetcode.com/u/G26KarthikK/"><img src="https://img.shields.io/badge/LeetCode-2720_Guardian-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode 2720 Guardian"></a>
 </p>
 
@@ -23,7 +23,7 @@
 
 <table align="center">
   <tr>
-    <td align="center"><sub>COMPETITION</sub><h3>#1 of 4,218</h3><sub>HackerRank Orchestrate, Oct 2026</sub></td>
+    <td align="center"><sub>COMPETITION</sub><h3>1st of 4,218</h3><sub>HackerRank Orchestrate, Oct 2026</sub></td>
     <td align="center"><sub>MERGED UPSTREAM</sub><h3>24 PRs</h3><sub>across 18 projects, 338K+ combined stars</sub></td>
     <td align="center"><sub>RESEARCH</sub><h3>3 papers</h3><sub>first author: quantum ML, quantization, agent security</sub></td>
   </tr>
