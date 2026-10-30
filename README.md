@@ -1,100 +1,45 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/profile/hero-dark.svg">
-  <img alt="G. Karthik Koundinya, Applied AI engineer. I build AI that holds up in production: agents, retrieval systems, risk models, evals." src="./assets/profile/hero-light.svg" width="100%">
+  <img alt="G. Karthik Koundinya, Applied AI Engineer and Researcher. I build and research LLM systems, quantization, quantum ML and evals." src="./assets/profile/hero-light.svg" width="100%">
 </picture>
 
 <p align="center">
+  <a href="https://g26karthik.dev"><img src="https://img.shields.io/badge/Portfolio-g26karthik.dev-0b6e4f?style=for-the-badge" alt="Portfolio at g26karthik.dev"></a>
+  <a href="https://www.linkedin.com/in/g-karthik26"><img src="https://img.shields.io/badge/LinkedIn-g--karthik26-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:karthikofficialmain@gmail.com"><img src="https://img.shields.io/badge/Email-get_in_touch-d7381f?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+</p>
+
+<p align="center">
+  <a href="https://g26karthik.dev/achievements/"><img src="https://img.shields.io/badge/HackerRank_Orchestrate_Oct_'26-%231_of_4%2C218-2a78d6?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank Orchestrate October 2026: 1st of 4,218 in Round 1"></a>
   <a href="https://github.com/G26karthik/bizmatch-amazon-ml-2026"><img src="https://img.shields.io/badge/Amazon_ML_Challenge_'26-38th_of_32%2C000%2B_teams-FF9900?style=for-the-badge&logo=amazon&logoColor=white" alt="Amazon ML Challenge 2026: 38th of 32,000+ teams"></a>
-  <br>
-  <a href="https://github.com/G26karthik/whatsapp-notification-router"><img src="https://img.shields.io/badge/HackerRank_Orchestrate_Aug_'26-20th_of_1%2C983-2a78d6?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank Orchestrate Aug 2026: 20th of 1,983"></a>
-  <a href="https://github.com/G26karthik/grounded-support-triage"><img src="https://img.shields.io/badge/HackerRank_Orchestrate_May_'26-12th_of_12%2C885-2a78d6?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank Orchestrate May 2026: 12th of 12,885"></a>
   <br>
   <a href="https://langfuse.com/security/responsible-disclosure#hall-of-fame"><img src="https://img.shields.io/badge/Langfuse-Security_Hall_of_Fame-eb6834?style=for-the-badge" alt="Langfuse Security Hall of Fame"></a>
   <img src="https://img.shields.io/badge/Microsoft_Certified-AI--103_%C2%B7_DP--800-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft Certified AI-103 and DP-800">
-  <br>
-<a href="https://www.codechef.com/users/g26karthikk">
-  <img src="https://img.shields.io/badge/CodeChef-6%E2%98%85_%C2%B7_2483_%C2%B7_%234_India-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef 6 star, rating 2483, rank 4 in India">
-</a>
+  <a href="https://www.codechef.com/users/g26karthikk"><img src="https://img.shields.io/badge/CodeChef-6%E2%98%85_%C2%B7_2483_%C2%B7_%234_India-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef 6 star, rating 2483, rank 4 in India"></a>
   <a href="https://leetcode.com/u/G26KarthikK/"><img src="https://img.shields.io/badge/LeetCode-2720_Guardian-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode 2720 Guardian"></a>
 </p>
 
-<p align="center"><samp>
-  <a href="https://g26karthik.github.io/Portfolio/">portfolio</a> ·
-  <a href="https://linkedin.com/in/g-karthik26">linkedin</a> ·
-  <a href="mailto:karthikofficialmain@gmail.com">email</a> ·
-  <a href="https://github.com/search?q=author%3AG26karthik+is%3Apr&type=pullrequests&s=created&o=desc">all my PRs</a>
-</samp></p>
-
-**Applied AI engineer.** I build AI systems that have to be right: agents, retrieval, and the evals that keep them honest. Most recently I built REFEREE, an autonomous research-review product, as an AI engineering intern at RamanIQ. Before that, I shipped production ML at Hecta Proptech and was the sole full-stack engineer at chkchk, a stealth startup. I'm also first author of a quantum-ML paper ([QNC](https://github.com/G26karthik/QNC)) that is in revision after peer review. B.Tech CSE '27, Hyderabad.
+**Applied AI engineer and researcher.** I build AI systems that hold up on data they have never seen, and I research how LLMs and quantum models behave. I built REFEREE, an autonomous research-review product, as an AI engineering intern at RamanIQ, and shipped production ML at Hecta Proptech. I am first author of three papers on quantum ML, LLM quantization and coding-agent security. B.Tech CSE '27, Hyderabad, looking for applied AI and ML roles.
 
 <table align="center">
   <tr>
-    <td align="center"><sub>SERVING</sub><h3>5K+ users/day</h3><sub>production ML at Hecta Proptech</sub></td>
-    <td align="center"><sub>LANDED UPSTREAM</sub><h3>17 merged PRs</h3><sub>13 projects, plus a Langfuse fix</sub></td>
-    <td align="center"><sub>MERGED INTO</sub><h3>330K★ projects</h3><sub>PyTorch · pandas · mem0 · NumPyro · QuTiP</sub></td>
+    <td align="center"><sub>COMPETITION</sub><h3>#1 of 4,218</h3><sub>HackerRank Orchestrate, Oct 2026</sub></td>
+    <td align="center"><sub>MERGED UPSTREAM</sub><h3>24 PRs</h3><sub>across 18 projects, 338K+ combined stars</sub></td>
+    <td align="center"><sub>RESEARCH</sub><h3>3 papers</h3><sub>first author: quantum ML, quantization, agent security</sub></td>
   </tr>
 </table>
 
-## 💼 Experience
-
-| Role | Where | What I did |
-|---|---|---|
-| **Applied AI Engineer Intern** | RamanIQ (AI startup) · Aug – Oct 2026 | **REFEREE**, an autonomous research-review product: multi-agent orchestration plus deterministic pipelines for paper analysis, experiment execution and evidence-backed verdicts, at **~87% accuracy on evals and tests**. Screened **36K+ papers** to curate 380+ reproduction candidates. **19+ PRs** shipping connectors, UI and backend features |
-| **Tech Engineer, AI & Backend** | Hecta Proptech · Jun – Jul 2026 | CatBoost + GPU embeddings over **175K+ auction notices**: **84.3% ROC-AUC**, **80% less manual review**. A Cox survival model (**0.79 C-index**) behind a validated Flask API, and the first hybrid RAG platform |
-| **Full Stack Engineer (sole)** | chkchk (stealth startup) · Jan – Apr 2026 | Built a creative-talent marketplace end to end on Next.js and Supabase: **−50% DB calls, −30% latency**, realtime, EC2 + CI/CD, and the Android app. **66 of 74 commits** |
-| **AI & Frontend Intern** | Edunet Foundation · 2025 | A Whisper + T5 lecture-to-notes pipeline, **~80% faster** with GPU inference and caching |
-
-## 🚀 My Projects
+## Featured projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-**[BizMatch](https://github.com/G26karthik/bizmatch-amazon-ml-2026)**: Amazon ML Challenge 2026<br>
-`🏆 38th of 32,000+` `entity resolution` `cross-encoders`
+**[REFEREE](https://github.com/G26karthik/referee)**: claim verification for research papers<br>
+`built at RamanIQ` `multi-agent` `Docker`
 
-- Finds every real copy of a business across **10M noisy records** and rejects decoys, across the US, India and an unlabeled France.
-- e5 retrieval, a 3-stage LightGBM cascade, 7 cross-encoders and exact expected-F0.5 decisions: **0.921 → 0.990 F0.5**, all on free compute. I led the team.
-
-</td>
-<td width="50%" valign="top">
-
-**[QNC](https://github.com/G26karthik/QNC)**: quantum ML research paper<br>
-`first author` `PennyLane` `IBM quantum hardware`
-
-- Shows that training-time neural collapse in variational quantum classifiers is an **exact rotation**, verified to ~10⁻¹⁵ on MNIST and Fashion-MNIST.
-- Confirmed on **two IBM quantum backends**, with 52 preregistered predictions. Now in major revision after peer review.
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**[WhatsApp Notification Router](https://github.com/G26karthik/whatsapp-notification-router)**<br>
-`LLM consensus` `multimodal` `safety`
-
-- Decides **notify, digest or mute** per user across text, images and voice: a **5-vote LLM majority** over a closed bank of 27 reasons, with code deciding action and confidence.
-- **Muted 8 of 8** scam and prompt-injection attacks. Survived **5 mid-run kills** with zero lost calls. Honest [post-mortem](https://github.com/G26karthik/whatsapp-notification-router#post-mortem-why-20th-and-not-1st).
-
-</td>
-<td width="50%" valign="top">
-
-**[Nishchay](https://github.com/G26karthik/Nishchay)**: COD risk engine<br>
-`Razorpay AI Buildathon` `LightGBM` `conformal`
-
-- **₹72.9L net saved** on **44,288 held-out orders**. PR-AUC **0.677 vs 0.304** baseline at **0.986 recall**, with a decision threshold derived from each merchant's own costs.
-- LLM agents kept off the decision path. **18,827 live agent calls** proved it, and I reported the result honestly: no lift.
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**[Grounded Support Triage](https://github.com/G26karthik/grounded-support-triage)**<br>
-`LangGraph` `hybrid RAG` `citation critic`
-
-- Multi-agent triage over a 774-document corpus: **BM25 + dense + cross-encoder rerank**, and a deterministic citation critic that blocks unsupported answers.
-- **0–2 LLM calls per ticket** thanks to regex fast paths and structured routing.
+- Reads a paper, lists its main claims, runs a test for each in Docker and writes a reviewer page: Verified or Not verified, with the evidence.
+- **~87% accuracy** on evals and tests, **185 kernel tests**, and **36K+ papers** screened to curate 380+ reproduction candidates.
 
 </td>
 <td width="50%" valign="top">
@@ -102,56 +47,76 @@
 **[AlgoSentinel](https://github.com/G26karthik/algosentinel)**: autonomous PR auditor<br>
 `agents` `Docker sandbox` `Gemini`
 
-- **55 tools across 4 namespaces**. It benchmarks the old and new versions of each function in a sandbox and fits growth curves to catch **O(n) → O(n²)** regressions from real runtimes.
-- Compresses its context to sustain **20+ tool calls per audit**, then posts evidence-backed PR reviews.
+- Profiles the old and new version of every changed function in a sandbox and fits growth curves to catch **O(n) to O(n²)** regressions that tests miss.
+- **55 tools across 4 namespaces**, subagent orchestration, **26 tests**, and an eval harness at **F1 1.00** on 5 golden cases.
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-**[KVQuant Lab](https://github.com/G26karthik/kvquant-lab)**: LLM inference research<br>
-`PyTorch` `quantization` `TurboQuant (ICLR '26)`
+**[FounderOS](https://github.com/G26karthik/FounderOS)**: voice-first AI chief of staff<br>
+`🥈 2nd prize` `Qdrant` `parallel agents` · [live demo](https://founder-os-pi-lemon.vercel.app/)
 
-- **4.65× KV-cache compression** (5.6 MB → 957 KB) at near-baseline perplexity (4.68 vs 4.26).
-- **+73% recall@1** with Adaptive QJL, and **100% needle-in-a-haystack** recall at 3.2× compression. Reproduced 9 paper claims.
+- Turns spoken thoughts into decisions, tasks and ideas with **5 Lyzr agents** (three extractors run in parallel) over **4 Qdrant memory collections**.
+- Live in production with a privacy-first design: raw conversation stays private.
 
 </td>
 <td width="50%" valign="top">
 
-**[EdgeSentinel](https://github.com/G26karthik/EdgeSentinel)**: edge bot detection<br>
-`Cloudflare Workers` `Vectorize` `Durable Objects`
+**[Buy or Wait?](https://github.com/G26karthik/Buy-OR-Wait-Agentic-Decision-System)**: cash-flow decision engine<br>
+`exact Decimal` `LLM perception` `independent verifier`
 
-- A 5-stage classifier at **under 10 ms of overhead per request**, running entirely on Cloudflare's free tier.
-- Behavioral vector search, heuristics and LLM inference, with atomic per-IP rate limiting and non-blocking writes.
+- Recommends pay, wait, installments or decline from a 90-day forecast. The LLM reads documents; exact-arithmetic code does the money.
+- **318 tests across 18 suites**, with **233 of 250** decisions identical to an independent reference evaluator.
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-**[Dual AI Assistant Benchmark](https://github.com/G26karthik/Dual-AI-Assistant-s-Benchmark)**: LLM evals<br>
-`evals` `Llama Guard 3` `HF Spaces`
+**[Closer](https://github.com/G26karthik/Closer)**: deadline agent on Google ADK<br>
+`planner` `evaluator loop` `human-in-the-loop`
 
-- **1,000 runs** across 5 safety suites (hallucination, bias, toxicity, jailbreaks), scored by a **3-judge LLM panel** with NLI consistency checks.
-- An OSS assistant with memory, tools and two-stage guardrails, [live on Hugging Face](https://huggingface.co/spaces/LuciferMrng/dual-ai-assistant-benchmark-oss).
+- Turns a goal and deadline into finished work: draft emails, calendar blocks, research and documents, pausing only for real decisions.
+- **58 tests**, a judge that grades each specialist's output with an automatic retry, and a scheduled monitor for closing deadlines.
 
 </td>
 <td width="50%" valign="top">
 
-**[Sandbox Warm Pool Controller](https://github.com/G26karthik/sandbox-warm-pool-controller)**: Kubernetes<br>
-`Go` `CRDs` `gVisor / Kata` `Prometheus`
+**[BizMatch](https://github.com/G26karthik/bizmatch-amazon-ml-2026)**: Amazon ML Challenge 2026<br>
+`🏆 38th of 32,000+` `entity resolution` `team lead`
 
-- Pre-warms isolated sandbox pods to remove **1–5 s cold starts**, using a 6-state pod lifecycle.
-- A race-free assignment API with auto-replenishment and Prometheus latency metrics.
+- Finds every real copy of a business across **~10M noisy records** and rejects look-alike decoys: e5 retrieval, a LightGBM cascade and cross-encoders.
+- **0.921 to 0.990 F0.5** on free compute. [Engineering write-up](https://g26karthik.dev/writing/amazon-ml-challenge-2026/).
 
 </td>
 </tr>
 </table>
 
-<sub>More: [TraceWarrant](https://github.com/G26karthik/tracewarrant) (evidence checker for agent performance claims) · [Buy or Wait](https://github.com/G26karthik/Buy-OR-Wait-Agentic-Decision-System) (financial decision engine, HackerRank Orchestrate Sep '26) · [Setu](https://github.com/G26karthik/Sethu-AI) (district health network with a human-approved allocation solver) · [Forensic Evidence Indexer](https://github.com/G26karthik/Forensic-Evidence-Indexer) (C++17 streaming hasher) · [MindSafe](https://github.com/G26karthik/MindSafe) (ZK-proof mental-health dApp) · [Avia](https://github.com/G26karthik/Avia) (fraud-detection SaaS) · [FounderOS](https://github.com/G26karthik/FounderOS) (🥈 2nd prize)</sub>
+<sub>More: [ParallaxOps](https://github.com/G26karthik/parallaxops) (3D reconstruction platform) · [Nishchay](https://github.com/G26karthik/Nishchay) (COD risk engine) · [WhatsApp Notification Router](https://github.com/G26karthik/whatsapp-notification-router) · [Grounded Support Triage](https://github.com/G26karthik/grounded-support-triage) · [Setu](https://github.com/G26karthik/Sethu-AI) (district health network) · [EdgeSentinel](https://github.com/G26karthik/EdgeSentinel) · [Avia](https://github.com/G26karthik/Avia) · [full list on the portfolio](https://g26karthik.dev/projects/)</sub>
 
-## 🌍 Open Source
+## Research
+
+| Paper | Status | Focus |
+|---|---|---|
+| [**QNC**](https://github.com/G26karthik/QNC): Geometry Conservation in Variational Quantum Classifiers | Springer *Quantum Machine Intelligence*, major revision | Training rotates states exactly (~10⁻¹⁵ relative change), checked on two IBM quantum backends, 52 preregistered predictions |
+| Language-Aware Calibration and Bit Allocation for Low-Bit Quantization of Indic Language Models | RAIT 2027, under review | English-calibrated 3-bit GPTQ raises Indic bits per byte 2.05× vs 1.15× on English; balanced calibration cuts it to 1.38 |
+| CANARYCODE: Benchmarking and Mitigating Sensitive-Data Leakage in LLM Coding Agents | DAI 2026, under revision | 786 completed runs across three open-weight models, eight output surfaces |
+
+Also: [KVQuant Lab](https://github.com/G26karthik/kvquant-lab) (4.65× KV-cache compression at near-baseline perplexity) and [TraceWarrant](https://github.com/G26karthik/tracewarrant) (do your traces support your performance claims?).
+
+## Experience
+
+| Role | Where | What I did |
+|---|---|---|
+| **Applied AI Engineer Intern** | RamanIQ (AI startup) · Aug – Oct 2026 | **REFEREE**, an autonomous research-review product: multi-agent orchestration plus deterministic pipelines for paper analysis, experiment execution and evidence-backed verdicts, at **~87% accuracy on evals and tests**. Screened **36K+ papers** to curate 380+ reproduction candidates. **19+ PRs** shipping connectors, UI and backend features |
+| **Tech Engineer, AI & Backend** | Hecta Proptech · Jun – Jul 2026 | CatBoost + GPU embeddings over **175K+ auction notices**: **84.3% ROC-AUC**, **80% less manual review**. A Cox survival model (**0.79 C-index**) behind a validated Flask API, and the first hybrid RAG platform. Features serving **5K+ users a day** |
+| **Full Stack Engineer (sole)** | chkchk (stealth startup) · Jan – Apr 2026 | A creative-talent marketplace end to end on Next.js and Supabase: **−50% DB calls, −30% latency**, realtime, EC2 + CI/CD, and the Android app. **66 of 74 commits** |
+
+## Open source
+
+**24 merged PRs across 18 projects**, including PyTorch, mem0, Hindsight and pandas. [Browse them all](https://github.com/search?q=author%3AG26karthik+is%3Apr+is%3Amerged&type=pullrequests)
 
 | Project | What I contributed | Status |
 |---|---|---|
@@ -168,20 +133,16 @@
 | [NumPyro](https://github.com/pyro-ppl/numpyro/pulls?q=is%3Apr+author%3AG26karthik+is%3Amerged) · 2.8K★ | Hurdle distributions over positive bases now include zero in their support, and `init_to_mean` falls back to the median when the mean is not finite | ✅ 2 Merged |
 | [QuTiP](https://github.com/qutip/qutip/pull/3049) · 2.1K★ | `rand_dm` and `rand_herm` no longer hang forever when all eigenvalues are equal | ✅ Merged |
 | [pymc-extras](https://github.com/pymc-devs/pymc-extras/pull/802) · PyMC ecosystem | Traced a Windows-only Pathfinder test failure to numba cache numerics and re-enabled the test with a better-conditioned model | ✅ Merged |
-| chkchk (startup) | The Android app (Capacitor) and the full rebrand, **+5.6K lines** | ✅ 2 Merged |
-| [naija-nutri-hub](https://github.com/mlsanigeria/naija-nutri-hub/pull/52) | OTP email verification on signup | ✅ Merged |
 
-<sub>Also: `/lgtm` from Koordinator maintainers for a webhook-crash fix, "LGTM" at Google ADK, and open PRs to PyMC-Marketing, PennyLane, Kubeflow SDK, sbi, ArviZ, pyhf, sentence-transformers and FOSSASIA.</sub>
-
-## 🛠 Tech Stack
+## Tech stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,ts,go,cpp,java,pytorch,fastapi,flask,react,nextjs,nodejs&perline=11" alt="Languages and frameworks"><br>
   <img src="https://skillicons.dev/icons?i=supabase,postgres,mongodb,redis,docker,kubernetes,aws,gcp,cloudflare,git,linux&perline=11" alt="Data and infrastructure">
 </p>
-<p align="center"><sub>LLMs &amp; ML: OpenAI · Claude · Gemini · LangGraph · Hugging Face · LightGBM · CatBoost · XGBoost · scikit-learn · FAISS · BM25</sub></p>
+<p align="center"><sub>LLMs &amp; ML: OpenAI · Claude · Gemini · LangGraph · Hugging Face · LightGBM · CatBoost · XGBoost · scikit-learn · FAISS · BM25 · GPTQ · PennyLane</sub></p>
 
-## 📊 GitHub
+## GitHub
 
 <p align="center">
   <picture>
