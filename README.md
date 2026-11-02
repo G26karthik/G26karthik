@@ -17,9 +17,6 @@
   <a href="https://g26karthik.dev/research"><img src="https://img.shields.io/badge/Research-3_first--author_papers-6f42c1?style=for-the-badge" alt="Three first-author papers"></a>
   <a href="https://langfuse.com/security/responsible-disclosure#hall-of-fame"><img src="https://img.shields.io/badge/Langfuse-Security_Hall_of_Fame-eb6834?style=for-the-badge" alt="Langfuse Security Hall of Fame"></a>
   <br>
-  <a href="https://www.credly.com/users/g26karthik"><img src="https://img.shields.io/badge/Microsoft_Certified-AI--103_%C2%B7_DP--800-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft Certified AI-103 and DP-800"></a>
-  <a href="https://www.codechef.com/users/g26karthikk"><img src="https://img.shields.io/badge/CodeChef-6%E2%98%85_%C2%B7_2483_%C2%B7_4th_in_India-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef 6 star, rating 2483, rank 4 in India"></a>
-  <a href="https://leetcode.com/u/G26KarthikK/"><img src="https://img.shields.io/badge/LeetCode-2720_Guardian-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode 2720 Guardian"></a>
 </p>
 
 Hi, I'm Karthik. I build AI systems and make sure they still work on data they have never seen: agents and retrieval that I test properly, LLM quantization, quantum ML, and evaluation work where the hypothesis is written down before the experiment runs.
