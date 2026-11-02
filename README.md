@@ -3,31 +3,29 @@
   <img alt="G. Karthik Koundinya, Applied AI Engineer and Researcher. I build and research LLM systems, quantization, quantum ML and evals." src="./assets/profile/hero-light.svg" width="100%">
 </picture>
 
+
 <p align="center">
   <a href="https://g26karthik.dev"><img src="https://img.shields.io/badge/Portfolio-g26karthik.dev-0b6e4f?style=for-the-badge" alt="Portfolio at g26karthik.dev"></a>
   <a href="https://www.linkedin.com/in/g-karthik26"><img src="https://img.shields.io/badge/LinkedIn-g--karthik26-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:karthikofficialmain@gmail.com"><img src="https://img.shields.io/badge/Email-get_in_touch-d7381f?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
-<p align="center">
-  <a href="https://g26karthik.dev/achievements/"><img src="https://img.shields.io/badge/HackerRank_Orchestrate_Oct_'26-1st_of_4%2C600-2a78d6?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank Orchestrate October 2026: 1st of 4,600"></a>
-  <a href="https://github.com/G26karthik/bizmatch-amazon-ml-2026"><img src="https://img.shields.io/badge/Amazon_ML_Challenge_'26-38th_of_32%2C000%2B_teams-FF9900?style=for-the-badge&logo=amazon&logoColor=white" alt="Amazon ML Challenge 2026: 38th of 32,000+ teams"></a>
-  <br>
-  <a href="https://langfuse.com/security/responsible-disclosure#hall-of-fame"><img src="https://img.shields.io/badge/Langfuse-Security_Hall_of_Fame-eb6834?style=for-the-badge" alt="Langfuse Security Hall of Fame"></a>
-  <img src="https://img.shields.io/badge/Microsoft_Certified-AI--103_%C2%B7_DP--800-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft Certified AI-103 and DP-800">
-  <a href="https://www.codechef.com/users/g26karthikk"><img src="https://img.shields.io/badge/CodeChef-6%E2%98%85_%C2%B7_2483_%C2%B7_4th_in_India-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef 6 star, rating 2483, rank 4 in India"></a>
-  <a href="https://leetcode.com/u/G26KarthikK/"><img src="https://img.shields.io/badge/LeetCode-2720_Guardian-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode 2720 Guardian"></a>
-</p>
+Hi, I'm Karthik. I build AI systems and spend a lot of time making sure they still work on data they have never seen. That is most of what I do: agents and retrieval that I test properly, LLM quantization, quantum ML, and evaluation work where I write the hypothesis down before I run the experiment.
 
-**Applied AI engineer and researcher.** I build AI systems that hold up on data they have never seen, and I research how LLMs and quantum models behave. I built REFEREE, an autonomous research-review product, as an AI engineering intern at RamanIQ, and shipped production ML at Hecta Proptech. I am first author of three papers on quantum ML, LLM quantization and coding-agent security. B.Tech CSE '27, Hyderabad, looking for applied AI and ML roles.
+I also like fixing things in other people's code. So far that is **28 open-source contributions**, including PyTorch, pandas and mem0, and I am still adding to the list.
+
+I'm in the final year of my B.Tech in CSE (Geethanjali College of Engineering and Technology, Hyderabad) and I'm looking for applied AI and ML roles. If something here looks like a fit, [email me](mailto:karthikofficialmain@gmail.com).
 
 <table align="center">
   <tr>
     <td align="center"><sub>COMPETITION</sub><h3>1st of 4,600</h3><sub>HackerRank Orchestrate, Oct 2026</sub></td>
-    <td align="center"><sub>MERGED UPSTREAM</sub><h3>25 PRs</h3><sub>across 19 projects, 350K+ combined stars</sub></td>
+    <td align="center"><sub>OPEN SOURCE</sub><h3>28 contributions</h3><sub>25 merged PRs in 19 projects + 3 credited fixes, 350K+ combined stars</sub></td>
     <td align="center"><sub>RESEARCH</sub><h3>3 papers</h3><sub>first author: quantum ML, quantization, agent security</sub></td>
+    <td align="center"><sub>AMAZON ML CHALLENGE 2026</sub><h3>38th of 32,000+</h3><sub>team lead, invited to the Applied Scientist Intern interview</sub></td>
   </tr>
 </table>
+
+<p align="center"><sub>Also: Langfuse Security Hall of Fame · CodeChef 6★ (rating 2483, 4th in India) · LeetCode Guardian 2,720 · Microsoft AI-103 and DP-800 certified</sub></p>
 
 ## Featured projects
 
@@ -116,13 +114,13 @@ Also: [KVQuant Lab](https://github.com/G26karthik/kvquant-lab) (4.65× KV-cache 
 
 ## Open source
 
-**25 merged PRs across 19 projects**, including PyTorch, mem0, Hindsight and pandas. Maintainers at PyMC and PyTensor landed fixes for two more bugs I diagnosed, with me credited as co-author, and Langfuse lists me in its Security Hall of Fame. [Browse them all](https://github.com/search?q=author%3AG26karthik+is%3Apr+is%3Amerged&type=pullrequests)
+I started with small fixes and moved to the bigger libraries I use every day. In total that is **28 contributions: 25 merged pull requests across 19 projects, plus 3 fixes that maintainers landed themselves and credited me for** (Langfuse, PyTensor and PyMC). Langfuse also lists me in its Security Hall of Fame. [See the merged PRs](https://github.com/search?q=author%3AG26karthik+is%3Apr+is%3Amerged+-user%3AG26karthik+-org%3ADreamNation-EngineeringLabs+-user%3Acodexllama+-user%3Avinayrealai&type=pullrequests) <sub>(PyTorch lands PRs through its merge bot, so GitHub's filter shows one fewer.)</sub>
 
 | Project | What I contributed | Status |
 |---|---|---|
 | [PyTorch](https://github.com/pytorch/pytorch/pull/199953) · 105K★ | `SGD` now rejects NaN `lr`, `momentum` and `weight_decay` instead of silently training on NaN, matching the other optimizers | ✅ Merged |
-| [mem0](https://github.com/mem0ai/mem0/pull/3549) · 67K★ | The Azure AI Search vector store for the TypeScript SDK: hybrid search and quantization, **754 lines** | ✅ Merged |
-| [Hindsight](https://github.com/vectorize-io/hindsight/pull/5092) · 50.6K★ | Fixed audit-log rows silently lost to garbage-collected write tasks and at shutdown | ✅ Merged |
+| [mem0](https://github.com/mem0ai/mem0/pull/3549) · 68K★ | The Azure AI Search vector store for the TypeScript SDK: hybrid search and quantization, **754 lines** | ✅ Merged |
+| [Hindsight](https://github.com/vectorize-io/hindsight/pull/5092) · 58K★ | Fixed audit-log rows silently lost to garbage-collected write tasks and at shutdown | ✅ Merged |
 | [pandas](https://github.com/pandas-dev/pandas/pulls?q=is%3Apr+author%3AG26karthik) · 50K★ | A PyArrow datetime-merge regression test, Ruff B905 enforcement, and a docstring migration | ✅ 3 Merged |
 | [Langfuse](https://github.com/langfuse/langfuse/pull/14789) · 36K★ | Found a prompt-cache key collision (version `3` vs label `"3"` served each other's prompt) | 🚀 Shipped via [#15040](https://github.com/langfuse/langfuse/pull/15040) |
 | [matplotlib](https://github.com/matplotlib/matplotlib/pull/30639) · 23K★ | Documented the TwoSlopeNorm linear-colorbar workaround | ✅ Merged |
@@ -141,23 +139,15 @@ Also: [KVQuant Lab](https://github.com/G26karthik/kvquant-lab) (4.65× KV-cache 
 ## Tech stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,ts,go,cpp,java,pytorch,fastapi,flask,react,nextjs,nodejs&perline=11" alt="Languages and frameworks"><br>
-  <img src="https://skillicons.dev/icons?i=supabase,postgres,mongodb,redis,docker,kubernetes,aws,gcp,cloudflare,git,linux&perline=11" alt="Data and infrastructure">
+  <img src="https://skillicons.dev/icons?i=python,ts,go,cpp,pytorch,fastapi,react,nextjs,postgres,docker,kubernetes,aws,git,linux&perline=14" alt="Languages, frameworks and infrastructure">
 </p>
 <p align="center"><sub>LLMs &amp; ML: OpenAI · Claude · Gemini · LangGraph · Hugging Face · LightGBM · CatBoost · XGBoost · scikit-learn · FAISS · BM25 · GPTQ · PennyLane</sub></p>
 
-## GitHub
+## Say hello
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api?username=G26karthik&show_icons=true&include_all_commits=true&hide_border=true&hide_rank=true&theme=github_dark">
-    <img src="https://github-readme-stats-fast.vercel.app/api?username=G26karthik&show_icons=true&include_all_commits=true&hide_border=true&hide_rank=true" alt="GitHub stats" height="165">
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api/top-langs?username=G26karthik&layout=compact&hide_border=true&hide=html%2Ccss&langs_count=8&theme=github_dark">
-    <img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=G26karthik&layout=compact&hide_border=true&hide=html%2Ccss&langs_count=8" alt="Top languages" height="165">
-  </picture>
-</p>
+The quickest way to reach me is [email](mailto:karthikofficialmain@gmail.com) or [LinkedIn](https://www.linkedin.com/in/g-karthik26). My [portfolio](https://g26karthik.dev) has the longer write-ups, including the Amazon ML Challenge solution and the QNC case study.
+
+<p align="center"><sub>My contribution graph, below, is being eaten by a snake. It is a bit slow, but it keeps going.</sub></p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/G26karthik/G26karthik/output/snake-dark.svg">
