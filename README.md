@@ -24,7 +24,7 @@
 <table align="center">
   <tr>
     <td align="center"><sub>COMPETITION</sub><h3>1st of 4,218</h3><sub>HackerRank Orchestrate, Oct 2026</sub></td>
-    <td align="center"><sub>MERGED UPSTREAM</sub><h3>24 PRs</h3><sub>across 18 projects, 338K+ combined stars</sub></td>
+    <td align="center"><sub>MERGED UPSTREAM</sub><h3>25 PRs</h3><sub>across 19 projects, 350K+ combined stars</sub></td>
     <td align="center"><sub>RESEARCH</sub><h3>3 papers</h3><sub>first author: quantum ML, quantization, agent security</sub></td>
   </tr>
 </table>
@@ -116,7 +116,7 @@ Also: [KVQuant Lab](https://github.com/G26karthik/kvquant-lab) (4.65× KV-cache 
 
 ## Open source
 
-**24 merged PRs across 18 projects**, including PyTorch, mem0, Hindsight and pandas. [Browse them all](https://github.com/search?q=author%3AG26karthik+is%3Apr+is%3Amerged&type=pullrequests)
+**25 merged PRs across 19 projects**, including PyTorch, mem0, Hindsight and pandas. [Browse them all](https://github.com/search?q=author%3AG26karthik+is%3Apr+is%3Amerged&type=pullrequests)
 
 | Project | What I contributed | Status |
 |---|---|---|
