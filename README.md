@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <a href="https://g26karthik.dev/achievements/"><img src="https://img.shields.io/badge/HackerRank_Orchestrate_Oct_'26-1st_of_4%2C218-2a78d6?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank Orchestrate October 2026: 1st of 4,218 in Round 1"></a>
+  <a href="https://g26karthik.dev/achievements/"><img src="https://img.shields.io/badge/HackerRank_Orchestrate_Oct_'26-1st_of_4%2C600-2a78d6?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank Orchestrate October 2026: 1st of 4,600"></a>
   <a href="https://github.com/G26karthik/bizmatch-amazon-ml-2026"><img src="https://img.shields.io/badge/Amazon_ML_Challenge_'26-38th_of_32%2C000%2B_teams-FF9900?style=for-the-badge&logo=amazon&logoColor=white" alt="Amazon ML Challenge 2026: 38th of 32,000+ teams"></a>
   <br>
   <a href="https://langfuse.com/security/responsible-disclosure#hall-of-fame"><img src="https://img.shields.io/badge/Langfuse-Security_Hall_of_Fame-eb6834?style=for-the-badge" alt="Langfuse Security Hall of Fame"></a>
@@ -23,7 +23,7 @@
 
 <table align="center">
   <tr>
-    <td align="center"><sub>COMPETITION</sub><h3>1st of 4,218</h3><sub>HackerRank Orchestrate, Oct 2026</sub></td>
+    <td align="center"><sub>COMPETITION</sub><h3>1st of 4,600</h3><sub>HackerRank Orchestrate, Oct 2026</sub></td>
     <td align="center"><sub>MERGED UPSTREAM</sub><h3>25 PRs</h3><sub>across 19 projects, 350K+ combined stars</sub></td>
     <td align="center"><sub>RESEARCH</sub><h3>3 papers</h3><sub>first author: quantum ML, quantization, agent security</sub></td>
   </tr>
@@ -116,7 +116,7 @@ Also: [KVQuant Lab](https://github.com/G26karthik/kvquant-lab) (4.65× KV-cache 
 
 ## Open source
 
-**25 merged PRs across 19 projects**, including PyTorch, mem0, Hindsight and pandas. [Browse them all](https://github.com/search?q=author%3AG26karthik+is%3Apr+is%3Amerged&type=pullrequests)
+**25 merged PRs across 19 projects**, including PyTorch, mem0, Hindsight and pandas. Maintainers at PyMC and PyTensor landed fixes for two more bugs I diagnosed, with me credited as co-author, and Langfuse lists me in its Security Hall of Fame. [Browse them all](https://github.com/search?q=author%3AG26karthik+is%3Apr+is%3Amerged&type=pullrequests)
 
 | Project | What I contributed | Status |
 |---|---|---|
@@ -129,10 +129,14 @@ Also: [KVQuant Lab](https://github.com/G26karthik/kvquant-lab) (4.65× KV-cache 
 | [sktime](https://github.com/sktime/sktime/pull/8923) · 10K★ | Fixed broken pytorch-forecasting references in the forecaster adapters | ✅ Merged |
 | [SQLFluff](https://github.com/sqlfluff/sqlfluff/pull/7163) · 10K★ | A PostgreSQL `OPERATOR(schema.op)` parser, **649 lines** with fixtures | ✅ Merged |
 | [HackerRank hiring-agent](https://github.com/interviewstreet/hiring-agent/pulls?q=is%3Apr+author%3AG26karthik) · 7.3K★ | Fixed a PyMuPDF memory leak and a Windows UTF-8 crash | ✅ 2 Merged |
+| [authlib](https://github.com/authlib/authlib/pull/974) · 5.4K★ | OAuth endpoints now answer insecure-transport requests with a proper error response instead of raising | ✅ Merged |
 | [PyTorch-Ignite](https://github.com/pytorch/ignite/pull/3876) · 4.8K★ | `ReduceLROnPlateauScheduler` now honours `min_lr` for every param group, not only the first | ✅ Merged |
 | [NumPyro](https://github.com/pyro-ppl/numpyro/pulls?q=is%3Apr+author%3AG26karthik+is%3Amerged) · 2.8K★ | Hurdle distributions over positive bases now include zero in their support, and `init_to_mean` falls back to the median when the mean is not finite | ✅ 2 Merged |
 | [QuTiP](https://github.com/qutip/qutip/pull/3049) · 2.1K★ | `rand_dm` and `rand_herm` no longer hang forever when all eigenvalues are equal | ✅ Merged |
-| [pymc-extras](https://github.com/pymc-devs/pymc-extras/pull/802) · PyMC ecosystem | Traced a Windows-only Pathfinder test failure to numba cache numerics and re-enabled the test with a better-conditioned model | ✅ Merged |
+| [sbi](https://github.com/sbi-dev/sbi/pull/2079) · 882★ | Corrected the mixture-density-network `log_prob` under structured z-scoring, and Sinkhorn now checks convergence on the marginals and warns when it fails | ✅ 2 Merged |
+| [PyMC ecosystem](https://github.com/pymc-labs/pymc-marketing/pull/3206) · pymc-marketing, arviz-stats, pymc-extras | Moved pymc-marketing off a deprecated dataset call and fixed its notebook equations, kept the two largest integers in separate arviz-stats histogram bins, and traced a Windows-only Pathfinder test failure in pymc-extras to numba cache numerics | ✅ 4 Merged |
+| [PyMC](https://github.com/pymc-devs/pymc/commit/5441c35f7726ce04736d5970dfbe68c167284e75) · [PyTensor](https://github.com/pymc-devs/pytensor/commit/2e1005b7ecb9b619a89829b81037420dbdac8fd5) | Diagnosed the wrong `ExGaussian` and `SkewStudentT` means and a Numba Cholesky compile failure on read-only inputs; the maintainers landed both fixes with me as co-author | ✅ 2 Co-authored |
+| [qutip-qip](https://github.com/qutip/qutip-qip/pull/427) · [toqito](https://github.com/vprusso/toqito/pull/1989) | `Processor.run_state` no longer mutates the caller's collapse operators, and `kraus_to_choi` accepts wrapped completely-positive Kraus forms | ✅ 2 Merged |
 
 ## Tech stack
 
