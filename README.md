@@ -3,29 +3,28 @@
   <img alt="G. Karthik Koundinya, Applied AI Engineer and Researcher. I build and research LLM systems, quantization, quantum ML and evals." src="./assets/profile/hero-light.svg" width="100%">
 </picture>
 
-
 <p align="center">
   <a href="https://g26karthik.dev"><img src="https://img.shields.io/badge/Portfolio-g26karthik.dev-0b6e4f?style=for-the-badge" alt="Portfolio at g26karthik.dev"></a>
   <a href="https://www.linkedin.com/in/g-karthik26"><img src="https://img.shields.io/badge/LinkedIn-g--karthik26-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:karthikofficialmain@gmail.com"><img src="https://img.shields.io/badge/Email-get_in_touch-d7381f?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
-Hi, I'm Karthik. I build AI systems and spend a lot of time making sure they still work on data they have never seen. That is most of what I do: agents and retrieval that I test properly, LLM quantization, quantum ML, and evaluation work where I write the hypothesis down before I run the experiment.
+<p align="center">
+  <a href="https://g26karthik.dev/achievements/"><img src="https://img.shields.io/badge/HackerRank_Orchestrate_Oct_'26-1st_of_4%2C600-2a78d6?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank Orchestrate October 2026: 1st of 4,600"></a>
+  <a href="https://github.com/G26karthik/bizmatch-amazon-ml-2026"><img src="https://img.shields.io/badge/Amazon_ML_Challenge_'26-38th_of_32%2C000%2B_teams-FF9900?style=for-the-badge&logo=amazon&logoColor=white" alt="Amazon ML Challenge 2026: 38th of 32,000+ teams"></a>
+  <br>
+  <a href="https://github.com/search?q=author%3AG26karthik+is%3Apr+is%3Amerged+-user%3AG26karthik+-org%3ADreamNation-EngineeringLabs+-user%3Acodexllama+-user%3Avinayrealai&type=pullrequests"><img src="https://img.shields.io/badge/Open_source-28_contributions-238636?style=for-the-badge&logo=github&logoColor=white" alt="28 open-source contributions: 25 merged pull requests and 3 credited fixes"></a>
+  <a href="https://g26karthik.dev/research"><img src="https://img.shields.io/badge/Research-3_first--author_papers-6f42c1?style=for-the-badge" alt="Three first-author papers"></a>
+  <a href="https://langfuse.com/security/responsible-disclosure#hall-of-fame"><img src="https://img.shields.io/badge/Langfuse-Security_Hall_of_Fame-eb6834?style=for-the-badge" alt="Langfuse Security Hall of Fame"></a>
+  <br>
+  <a href="https://www.credly.com/users/g26karthik"><img src="https://img.shields.io/badge/Microsoft_Certified-AI--103_%C2%B7_DP--800-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft Certified AI-103 and DP-800"></a>
+  <a href="https://www.codechef.com/users/g26karthikk"><img src="https://img.shields.io/badge/CodeChef-6%E2%98%85_%C2%B7_2483_%C2%B7_4th_in_India-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef 6 star, rating 2483, rank 4 in India"></a>
+  <a href="https://leetcode.com/u/G26KarthikK/"><img src="https://img.shields.io/badge/LeetCode-2720_Guardian-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode 2720 Guardian"></a>
+</p>
 
-I also like fixing things in other people's code. So far that is **28 open-source contributions**, including PyTorch, pandas and mem0, and I am still adding to the list.
+Hi, I'm Karthik. I build AI systems and make sure they still work on data they have never seen: agents and retrieval that I test properly, LLM quantization, quantum ML, and evaluation work where the hypothesis is written down before the experiment runs.
 
-I'm in the final year of my B.Tech in CSE (Geethanjali College of Engineering and Technology, Hyderabad) and I'm looking for applied AI and ML roles. If something here looks like a fit, [email me](mailto:karthikofficialmain@gmail.com).
-
-<table align="center">
-  <tr>
-    <td align="center"><sub>COMPETITION</sub><h3>1st of 4,600</h3><sub>HackerRank Orchestrate, Oct 2026</sub></td>
-    <td align="center"><sub>OPEN SOURCE</sub><h3>28 contributions</h3><sub>25 merged PRs in 19 projects + 3 credited fixes, 350K+ combined stars</sub></td>
-    <td align="center"><sub>RESEARCH</sub><h3>3 papers</h3><sub>first author: quantum ML, quantization, agent security</sub></td>
-    <td align="center"><sub>AMAZON ML CHALLENGE 2026</sub><h3>38th of 32,000+</h3><sub>team lead, invited to the Applied Scientist Intern interview</sub></td>
-  </tr>
-</table>
-
-<p align="center"><sub>Also: Langfuse Security Hall of Fame · CodeChef 6★ (rating 2483, 4th in India) · LeetCode Guardian 2,720 · Microsoft AI-103 and DP-800 certified</sub></p>
+I also like fixing things in other people's code: **28 open-source contributions** so far, including PyTorch, pandas and mem0. I'm in the final year of my B.Tech in CSE (Geethanjali College of Engineering and Technology, Hyderabad) and looking for applied AI and ML roles.
 
 ## Featured projects
 
@@ -96,13 +95,13 @@ I'm in the final year of my B.Tech in CSE (Geethanjali College of Engineering an
 
 ## Research
 
-| Paper | Status | Focus |
-|---|---|---|
-| [**QNC**](https://github.com/G26karthik/QNC): Geometry Conservation in Variational Quantum Classifiers | Springer *Quantum Machine Intelligence*, major revision | Training rotates states exactly (~10⁻¹⁵ relative change), checked on two IBM quantum backends, 52 preregistered predictions |
-| Language-Aware Calibration and Bit Allocation for Low-Bit Quantization of Indic Language Models | RAIT 2027, under review | English-calibrated 3-bit GPTQ raises Indic bits per byte 2.05× vs 1.15× on English; balanced calibration cuts it to 1.38 |
-| CANARYCODE: Benchmarking and Mitigating Sensitive-Data Leakage in LLM Coding Agents | DAI 2026, under revision | 786 completed runs across three open-weight models, eight output surfaces |
+First author on all three.
 
-Also: [KVQuant Lab](https://github.com/G26karthik/kvquant-lab) (4.65× KV-cache compression at near-baseline perplexity) and [TraceWarrant](https://github.com/G26karthik/tracewarrant) (do your traces support your performance claims?).
+- **Geometry conservation in variational quantum classifiers** (QNC): *Quantum Machine Intelligence (Springer), major revision* · [paper and code](https://github.com/G26karthik/QNC)
+- **Language-aware calibration and bit allocation for low-bit quantization of Indic language models**: *RAIT 2027, under review*
+- **CANARYCODE: sensitive-data leakage in LLM coding agents**: *DAI 2026, under revision*
+
+Related open projects: [KVQuant Lab](https://github.com/G26karthik/kvquant-lab) and [TraceWarrant](https://github.com/G26karthik/tracewarrant). More on the [portfolio](https://g26karthik.dev/research).
 
 ## Experience
 
@@ -111,6 +110,8 @@ Also: [KVQuant Lab](https://github.com/G26karthik/kvquant-lab) (4.65× KV-cache 
 | **Applied AI Engineer Intern** | RamanIQ (AI startup) · Aug – Oct 2026 | **REFEREE**, an autonomous research-review product: multi-agent orchestration plus deterministic pipelines for paper analysis, experiment execution and evidence-backed verdicts, at **~87% accuracy on evals and tests**. Screened **36K+ papers** to curate 380+ reproduction candidates. **19+ PRs** shipping connectors, UI and backend features |
 | **Tech Engineer, AI & Backend** | Hecta Proptech · Jun – Jul 2026 | CatBoost + GPU embeddings over **175K+ auction notices**: **84.3% ROC-AUC**, **80% less manual review**. A Cox survival model (**0.79 C-index**) behind a validated Flask API, and the first hybrid RAG platform. Features serving **5K+ users a day** |
 | **Full Stack Engineer (sole)** | chkchk (stealth startup) · Jan – Apr 2026 | A creative-talent marketplace end to end on Next.js and Supabase: **−50% DB calls, −30% latency**, realtime, EC2 + CI/CD, and the Android app. **66 of 74 commits** |
+| **AI & Frontend Development Intern** | Edunet Foundation · Aug – Oct 2025 | A lecture audio-to-notes generator (Whisper, T5, DistilBART) for 60+ minute lectures; GPU-accelerated Whisper with caching cut processing time by **~80%** |
+| **Web Development & SEO Intern** | Badakarobar · Mar – Jun 2025 | Responsive landing pages with **~45% better Lighthouse scores**, SEO and metadata work, and Python-generated sitemaps |
 
 ## Open source
 
@@ -142,14 +143,3 @@ I started with small fixes and moved to the bigger libraries I use every day. In
   <img src="https://skillicons.dev/icons?i=python,ts,go,cpp,pytorch,fastapi,react,nextjs,postgres,docker,kubernetes,aws,git,linux&perline=14" alt="Languages, frameworks and infrastructure">
 </p>
 <p align="center"><sub>LLMs &amp; ML: OpenAI · Claude · Gemini · LangGraph · Hugging Face · LightGBM · CatBoost · XGBoost · scikit-learn · FAISS · BM25 · GPTQ · PennyLane</sub></p>
-
-## Say hello
-
-The quickest way to reach me is [email](mailto:karthikofficialmain@gmail.com) or [LinkedIn](https://www.linkedin.com/in/g-karthik26). My [portfolio](https://g26karthik.dev) has the longer write-ups, including the Amazon ML Challenge solution and the QNC case study.
-
-<p align="center"><sub>My contribution graph, below, is being eaten by a snake. It is a bit slow, but it keeps going.</sub></p>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/G26karthik/G26karthik/output/snake-dark.svg">
-  <img alt="Contribution graph being eaten by a snake" src="https://raw.githubusercontent.com/G26karthik/G26karthik/output/snake.svg" width="100%">
-</picture>
