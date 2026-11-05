@@ -13,7 +13,7 @@
   <a href="https://g26karthik.dev/achievements/"><img src="https://img.shields.io/badge/HackerRank_Orchestrate_Oct_'26-1st_of_4%2C600-2a78d6?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank Orchestrate October 2026: 1st of 4,600"></a>
   <a href="https://github.com/G26karthik/bizmatch-amazon-ml-2026"><img src="https://img.shields.io/badge/Amazon_ML_Challenge_'26-38th_of_32%2C000%2B_teams-FF9900?style=for-the-badge&logo=amazon&logoColor=white" alt="Amazon ML Challenge 2026: 38th of 32,000+ teams"></a>
   <br>
-  <a href="https://github.com/search?q=author%3AG26karthik+is%3Apr+is%3Amerged+-user%3AG26karthik+-org%3ADreamNation-EngineeringLabs+-user%3Acodexllama+-user%3Avinayrealai&type=pullrequests"><img src="https://img.shields.io/badge/Open_source-31_contributions-238636?style=for-the-badge&logo=github&logoColor=white" alt="31 open-source contributions: 28 merged pull requests and 3 credited fixes"></a>
+  <a href="https://github.com/search?q=author%3AG26karthik+is%3Apr+is%3Amerged+-user%3AG26karthik+-org%3ADreamNation-EngineeringLabs+-user%3Acodexllama+-user%3Avinayrealai&type=pullrequests"><img src="https://img.shields.io/badge/Open_source-32_contributions-238636?style=for-the-badge&logo=github&logoColor=white" alt="32 open-source contributions: 28 merged pull requests and 3 credited fixes"></a>
   <a href="https://g26karthik.dev/research"><img src="https://img.shields.io/badge/Research-3_first--author_papers-6f42c1?style=for-the-badge" alt="Three first-author papers"></a>
   <a href="https://langfuse.com/security/responsible-disclosure#hall-of-fame"><img src="https://img.shields.io/badge/Langfuse-Security_Hall_of_Fame-eb6834?style=for-the-badge" alt="Langfuse Security Hall of Fame"></a>
   <br>
@@ -21,7 +21,7 @@
 
 Hi, I'm Karthik. I build AI systems and make sure they still work on data they have never seen: agents and retrieval that I test properly, LLM quantization, quantum ML, and evaluation work where the hypothesis is written down before the experiment runs.
 
-I also like fixing things in other people's code: **31 open-source contributions** so far, including PyTorch, pandas and mem0. I'm in the final year of my B.Tech in CSE (Geethanjali College of Engineering and Technology, Hyderabad) and looking for applied AI and ML roles.
+I also like fixing things in other people's code: **32 open-source contributions** so far, including PyTorch, pandas and mem0. I'm in the final year of my B.Tech in CSE (Geethanjali College of Engineering and Technology, Hyderabad) and looking for applied AI and ML roles.
 
 ## Featured projects
 
@@ -112,7 +112,7 @@ Related open projects: [KVQuant Lab](https://github.com/G26karthik/kvquant-lab) 
 
 ## Open source
 
-I started with small fixes and moved to the bigger libraries I use every day. In total that is **31 contributions: 28 merged pull requests across 22 projects, plus 3 fixes that maintainers landed themselves and credited me for** (Langfuse, PyTensor and PyMC). Langfuse also lists me in its Security Hall of Fame. [See the merged PRs](https://github.com/search?q=author%3AG26karthik+is%3Apr+is%3Amerged+-user%3AG26karthik+-org%3ADreamNation-EngineeringLabs+-user%3Acodexllama+-user%3Avinayrealai&type=pullrequests) <sub>(PyTorch lands PRs through its merge bot, so GitHub's filter shows one fewer.)</sub>
+I started with small fixes and moved to the bigger libraries I use every day. In total that is **32 contributions: 29 merged pull requests across 23 projects, plus 3 fixes that maintainers landed themselves and credited me for** (Langfuse, PyTensor and PyMC). Langfuse also lists me in its Security Hall of Fame. [See the merged PRs](https://github.com/search?q=author%3AG26karthik+is%3Apr+is%3Amerged+-user%3AG26karthik+-org%3ADreamNation-EngineeringLabs+-user%3Acodexllama+-user%3Avinayrealai&type=pullrequests) <sub>(PyTorch lands PRs through its merge bot, so GitHub's filter shows one fewer.)</sub>
 
 | Project | What I contributed | Status |
 |---|---|---|
@@ -122,6 +122,7 @@ I started with small fixes and moved to the bigger libraries I use every day. In
 | [pandas](https://github.com/pandas-dev/pandas/pulls?q=is%3Apr+author%3AG26karthik) · 50K★ | A PyArrow datetime-merge regression test, Ruff B905 enforcement, and a docstring migration | ✅ 3 Merged |
 | [Langfuse](https://github.com/langfuse/langfuse/pull/14789) · 36K★ | Found a prompt-cache key collision (version `3` vs label `"3"` served each other's prompt) | 🚀 Shipped via [#15040](https://github.com/langfuse/langfuse/pull/15040) |
 | [matplotlib](https://github.com/matplotlib/matplotlib/pull/30639) · 23K★ | Documented the TwoSlopeNorm linear-colorbar workaround | ✅ Merged |
+| [tantivy](https://github.com/quickwit-oss/tantivy/pull/3241) · 16K★ | `BitSet::clear` now resets the cached length, so `len()` no longer reports the old count after a clear | ✅ Merged |
 | [sktime](https://github.com/sktime/sktime/pull/8923) · 10K★ | Fixed broken pytorch-forecasting references in the forecaster adapters | ✅ Merged |
 | [SQLFluff](https://github.com/sqlfluff/sqlfluff/pull/7163) · 10K★ | A PostgreSQL `OPERATOR(schema.op)` parser, **649 lines** with fixtures | ✅ Merged |
 | [HackerRank hiring-agent](https://github.com/interviewstreet/hiring-agent/pulls?q=is%3Apr+author%3AG26karthik) · 7.3K★ | Fixed a PyMuPDF memory leak and a Windows UTF-8 crash | ✅ 2 Merged |
