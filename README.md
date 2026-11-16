@@ -13,7 +13,7 @@
   <a href="https://g26karthik.dev/achievements/"><img src="https://img.shields.io/badge/HackerRank_Orchestrate_Oct_'26-1st_of_4%2C600-2a78d6?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank Orchestrate October 2026: 1st of 4,600"></a>
   <a href="https://github.com/G26karthik/bizmatch-amazon-ml-2026"><img src="https://img.shields.io/badge/Amazon_ML_Challenge_'26-38th_of_32%2C000%2B_teams-FF9900?style=for-the-badge&logo=amazon&logoColor=white" alt="Amazon ML Challenge 2026: 38th of 32,000+ teams"></a>
   <br>
-  <a href="https://github.com/search?q=author%3AG26karthik+is%3Apr+is%3Amerged+-user%3AG26karthik+-org%3ADreamNation-EngineeringLabs+-user%3Acodexllama+-user%3Avinayrealai&type=pullrequests"><img src="https://img.shields.io/badge/Open_source-64_contributions-238636?style=for-the-badge&logo=github&logoColor=white" alt="64 open-source contributions: 61 merged pull requests and 3 credited fixes"></a>
+  <a href="https://github.com/search?q=author%3AG26karthik+is%3Apr+is%3Amerged+-user%3AG26karthik+-org%3ADreamNation-EngineeringLabs+-user%3Acodexllama+-user%3Avinayrealai&type=pullrequests"><img src="https://img.shields.io/badge/Open_source-69_contributions-238636?style=for-the-badge&logo=github&logoColor=white" alt="69 open-source contributions: 65 merged pull requests and 4 credited fixes"></a>
   <a href="https://g26karthik.dev/research"><img src="https://img.shields.io/badge/Research-3_first--author_papers-6f42c1?style=for-the-badge" alt="Three first-author papers"></a>
   <a href="https://langfuse.com/security/responsible-disclosure#hall-of-fame"><img src="https://img.shields.io/badge/Langfuse-Security_Hall_of_Fame-eb6834?style=for-the-badge" alt="Langfuse Security Hall of Fame"></a>
   <br>
@@ -21,7 +21,7 @@
 
 Hi, I'm Karthik. I build AI systems and make sure they still work on data they have never seen: agents and retrieval that I test properly, LLM quantization, quantum ML, and evaluation work where the hypothesis is written down before the experiment runs.
 
-I also like fixing things in other people's code: **64 open-source contributions** so far, including PyTorch, Ruff, pandas and mem0. I'm in the final year of my B.Tech in CSE (Geethanjali College of Engineering and Technology, Hyderabad) and looking for applied AI and ML roles.
+I also like fixing things in other people's code: **69 open-source contributions** so far, including PyTorch, Ruff, pandas and mem0. I'm in the final year of my B.Tech in CSE (Geethanjali College of Engineering and Technology, Hyderabad) and looking for applied AI and ML roles.
 
 ## Featured projects
 
@@ -112,7 +112,7 @@ Related open projects: [KVQuant Lab](https://github.com/G26karthik/kvquant-lab) 
 
 ## Open source
 
-I have made **64 open-source contributions: 61 merged pull requests across 40 projects, plus 3 fixes that maintainers landed themselves and credited me for** (Langfuse, PyTensor and PyMC). The merged work went into projects such as pandas, PyMC Marketing, Doctrine MongoDB ODM, the ScyllaDB Python driver, Phobos (the D standard library), webpack-bundle-analyzer and Kinto. Most of the merged PRs are bug fixes that come with a regression test, and each was reviewed and merged by that project's maintainers. **[The full list, with a link and a short note for each, is on my portfolio →](https://g26karthik.dev/open-source)**
+I have made **69 open-source contributions: 65 merged pull requests across 43 projects, plus 4 fixes that maintainers landed themselves and credited me for** (Langfuse, PyTensor, PyMC and libunftp). The merged work went into projects such as pandas, PyMC Marketing, Doctrine MongoDB ODM, the ScyllaDB Python driver, Phobos (the D standard library), webpack-bundle-analyzer and Kinto. Most of the merged PRs are bug fixes that come with a regression test, and each was reviewed and merged by that project's maintainers. **[The full list, with a link and a short note for each, is on my portfolio →](https://g26karthik.dev/open-source)**
 
 ## Tech stack
 
