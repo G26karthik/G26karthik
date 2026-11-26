@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 160" width="1200" height="160" role="img" aria-labelledby="t">
-  <title id="t">G. Karthik Koundinya, AI Engineer and Researcher. I build and research LLM systems, quantization, quantum ML and evals.</title>
+  <title id="t">G. Karthik Koundinya, AI Engineer. I build LLM agents, retrieval systems, evals and ML in production.</title>
   <style>
     text { font-family: ui-serif, Georgia, "Times New Roman", serif; }
     .sans { font-family: ui-sans-serif, system-ui, -apple-system, "Segoe UI", Roboto, sans-serif; }
@@ -17,13 +17,13 @@
       .w0 { opacity: 1; }
     }
   </style>
-  <text class="mono cap" x="4" y="28">AI ENGINEER AND RESEARCHER · HYDERABAD</text>
+  <text class="mono cap" x="4" y="28">AI ENGINEER · HYDERABAD</text>
   <text class="name" x="2" y="88">G. Karthik Koundinya</text>
-  <text class="sans line" x="4" y="130">I build and research</text>
-    <text class="sans w w0" style="animation-delay:0.0s" x="212" y="130">LLM systems</text>
-    <text class="sans w" style="animation-delay:2.5s" x="212" y="130">quantization</text>
-    <text class="sans w" style="animation-delay:5.0s" x="212" y="130">quantum ML</text>
-    <text class="sans w" style="animation-delay:7.5s" x="212" y="130">evals</text>
+  <text class="sans line" x="4" y="130">I build</text>
+    <text class="sans w w0" style="animation-delay:0.0s" x="78" y="130">LLM agents</text>
+    <text class="sans w" style="animation-delay:2.5s" x="78" y="130">retrieval systems</text>
+    <text class="sans w" style="animation-delay:5.0s" x="78" y="130">evals</text>
+    <text class="sans w" style="animation-delay:7.5s" x="78" y="130">ML in production</text>
   <g>
     <circle class="p" style="animation-delay:1.32s" cx="1282.5" cy="90.0" r="2.4"/>
     <circle class="p" style="animation-delay:0.97s" cx="1011.7" cy="68.5" r="2.2"/>
